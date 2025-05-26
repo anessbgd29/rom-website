@@ -1,0 +1,5754 @@
+message_id,date,edited_date,rom_name,rom_version,android_version,build_type,download_links,image_path,changelog,bugs,notes,maintainer,raw_text
+3,2023-04-08T12:38:00,2023-04-08T12:44:10,PixelExperience,,12L,"Unofficial, Official",https://sourceforge.net/projects/camellia-builds/files/Release/,photos/photo_1@08-04-2023_12-38-00.jpg,,,,@rio113,"#PEPlus #Unofficial #ROM #Camellia #Camellian #S #OSS 
+PixelExperience Plus - UNOFFICIAL | Android 12L
+Released: 08/04/2023
+Kernel Source: Prebuilt
+
+▪️ Download
+▪️ XDA
+▪️ Support Group
+▪️ Flashing Guide
+▪️ Donation
+
+Changelog:
+▪️ Fixed lags in some cases
+▪️ Fixed internet issues in some cases
+
+Bugs:
+▪️ Screenshot can't be taken properly using volume buttons
+
+Notes:
+• Flash from PE Recovery
+
+Thanks to:
+• @kmosq for the server
+• Testers
+
+By @rio113
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+8,2023-04-09T17:14:26,2023-04-14T13:30:04,CrDroid,,12L,"Unofficial, Official",https://sourceforge.net/projects/crdroid-camellia/files/12.1/,photos/photo_2@09-04-2023_17-14-26.jpg,,,,@NoobDev6833,"#CrDroid #Unofficial #S #ROM #Camellia #OSS
+CrDroidv8.14- UNOFFICIAL | Android 12L
+Updated: 09/04/'23
+
+▪️Download
+▪️XDA thread
+▪️Support
+▪️Donate
+▪️Flashing Steps
+
+Changelog:
+• Fixed Adaptive Refresh Rate
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash with CrDroid Recovery
+
+Special thanks
+@Sushrut1101
+@Rio113 for device tree
+Testers
+
+By @NoobDev6833
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+9,2023-04-14T23:06:55,2023-04-15T00:01:17,CrDroid,,12L,"Unofficial, Official",https://sourceforge.net/projects/crdroid-camellia/files/12.1/,photos/photo_3@14-04-2023_23-06-55.jpg,,,,@NoobDev6833,"#CrDroid #Unofficial #S #ROM #Camellia #OSS
+CrDroidv8.14- UNOFFICIAL | Android 12L
+Updated: 14/04/'23
+
+▪️Download
+▪️XDA thread
+▪️Support
+▪️Donate
+▪️Flashing Steps
+
+Changelog:
+• Adjusted call audio
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash with CrDroid Recovery
+
+Special thanks
+@Rio113 for device tree
+Testers
+
+By @NoobDev6833
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+11,2023-04-16T14:52:14,2023-04-16T15:22:43,BlissRom,,12L,"GApps, Vanilla, Unofficial, Official","https://mega.nz/folder/MyB3EIhS#ElR1WmV3zXU6hCMsg84qnQ, https://mega.nz/folder/8qowVDKb#_gAwMw5nBzQXoDpP9L8yoA",photos/photo_4@16-04-2023_14-52-14.jpg,,,,@m929_official and MT6833 Development,"#BlissRom #Unofficial #S #ROM #Camellia #OSS
+BlissRom 15.8.5 by MegaFon929 UNOFFICIAL | Android 12L
+Build: 16/04/2023
+
+Changelog:
+• First build
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash with BlissROM Recovery
+
+Installation guide:
+Read this
+
+Special thanks
+@Rio113 for device tree 
+
+Download:
+GAPPS: Mega.nz
+Vanilla: Mega.nz
+
+By @m929_official and MT6833 Development"
+14,2023-05-09T17:44:02,2023-05-09T18:36:33,xdroidOS,,12L,"Unofficial, Official",https://sourceforge.net/projects/camellia-xdroid/files/Test/,photos/photo_5@09-05-2023_17-44-02.jpg,,,,@ramshell688,"#xdroidOSS #Unofficial #ROM #S #Camellia
+xdroidOSS r17 - UNOFFICIAL | Android 12L
+Released: 08/05/2023
+
+▪️Download
+▪️XDA thread
+▪️Support
+▪️Flashing Steps
+
+Changelog:
+• Initial build
+
+Bugs:
+• In about phone, saved network not showing
+• You tell me
+
+Notes:
+• Flash with PixelExperience Recovery
+
+Special thanks:
+@Rio113 for device tree
+Mt6833 Development
+
+By @ramshell688
+Follow @PocoM3ProUpdates 🍻
+Join @PocoM3ProOfficial 🍻"
+15,2023-05-11T11:49:46,2023-05-17T23:03:27,xdroidOSS r,17,12L,"Unofficial, Official",https://sourceforge.net/projects/camellia-xdroid/files/Test/,,,,,,"xdroidOSS r17 - UNOFFICIAL | Android 12L
+Updated: 10/05/2023
+
+▪️ Download
+
+Changelog:
+• Removing InfoFps on the tile didn't work
+• Added preference item for mobile plan"
+16,2023-05-26T23:05:30,2023-05-30T18:56:02,PixelExperience,,12L,"Unofficial, Official",https://sourceforge.net/projects/camellia-builds/files/Release/,photos/photo_1@08-04-2023_12-38-00.jpg,,,,@rio113,"#PEPlus #Unofficial #ROM #Camellia #Camellian #S #OSS 
+PixelExperience Plus - UNOFFICIAL | Android 12L | Final Release 
+Released: 26/05/2023
+Kernel Source: Prebuilt
+
+▪️ Download
+▪️ XDA
+▪️ Support Group
+▪️ Flashing Guide
+▪️ Donation
+
+Changelog:
+▪️ Fixed dynamic display
+▪️ Implemented a new power hal
+▪️ Added refresh rate per-app control
+▪️ Various under the hood optimisations
+
+Notes:
+• Flash from PE Recovery
+
+Thanks to:
+• @kmosq for the server
+• Testers
+
+By @rio113
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+17,2023-06-02T11:41:45,2023-06-02T11:55:41,xdroidOS,,12L,"Unofficial, Official",https://sourceforge.net/projects/camellia-xdroid/files/Release/,photos/photo_7@02-06-2023_11-41-45.jpg,,,,@ramshell688,"#xdroidOSS #Unofficial #ROM #S #Camellia
+xdroidOSS r17 - UNOFFICIAL | Android 12L
+Updated: 01/06/2023
+
+▪️Download
+▪️XDA thread
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• Added App refresh rate in display
+• Added refresh rate in toggle settings
+• Added data usage in settings
+• Added new boot animation ;)
+• etc.
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash with PixelExperience Recovery​
+
+Special thanks
+@Rio113 for device tree
+Mt6833 Development
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+18,2023-06-09T17:55:07,2023-06-09T18:02:30,PixelExperience,,13,"Unofficial, Official",https://sourceforge.net/projects/camellia-builds/files/Release/,photos/photo_1@08-04-2023_12-38-00.jpg,,,,@rio113,"#PEPlus #Unofficial #ROM #Camellia #Camellian #T #OSS 
+PixelExperience Plus - UNOFFICIAL | Android 13
+Released: 09/06/2023
+Kernel Source: Prebuilt
+
+▪️ Download
+▪️ XDA
+▪️ Support Group
+▪️ Flashing Guide
+▪️ Donation
+
+Changelog:
+▪️ Initial A13 build
+
+Known issues:
+▪️ Bluetooth audio randomly disconnects
+
+Notes:
+• Flash from PE Recovery
+• Clean flash is recommended
+
+Thanks to:
+• @kmosq for the server
+• Testers
+
+By @rio113
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+19,2023-06-10T23:45:52,2023-06-11T00:00:46,xtended,,13,"Unofficial, Official","https://mega.nz/folder/xFMjQJjY#ZebPc90JfOa5aOIvy-MvuQ, https://mega.nz/file/kUcVWLIQ#Vnnyd1JYo1KzJAfR7Ij7nyFk-vN586myumSY95QwZQY",photos/photo_9@10-06-2023_23-45-52.jpg,,,,@ramshell688,"#PixelExtended #Unofficial #ROM #T #Camellia #Camellian
+Pixel Extended 5.8 - UNOFFICIAL | Android 13
+Released: 10/06/2023
+
+▪️Download
+▪️XDA thread
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Initial build
+
+Bugs:
+• Boot animation lags
+• You tell me
+
+Notes:
+• Flash with PixelExperience Recovery​
+
+Special thanks
+@Rio113 for device tree
+Mt6833 Development
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+20,2023-06-11T11:37:06,2023-06-11T12:50:20,PixelExperience,,13,"Unofficial, Official",https://sourceforge.net/projects/camellia-builds/files/Release/,,,,,,"#PEPlus #Unofficial #ROM #Camellia #Camellian #T #HOTFIX
+PixelExperience Plus - UNOFFICIAL | Android 13
+Released: 11/06/2023
+
+▪️ Download
+
+Changelog:
+▪️ Fixed BT crashing
+▪️ Added FM radio
+
+Note:
+▪️ BT audio still randomly disconnects"
+21,2023-06-12T18:04:07,2023-06-12T18:05:04,LineageOS,20,13,"Unofficial, Official",https://sourceforge.net/projects/camellia-rom/files/LineageOS/,photos/photo_10@12-06-2023_18-04-07.jpg,,,,@roseia001,"#Lineage #Unofficial #ROM #T #Camellia #Camellian
+LineageOS 20 - UNOFFICIAL | Android 13
+Released: 12/06/2023
+
+▪️Download
+▪️XDA
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• Initial build
+
+Bugs:
+▪️ Default Browser is Broken (Source issue)
+▪️ Bluetooth audio randomly disconnects
+
+Notes:
+• Flash with LineageOS Recovery​
+
+Special thanks
+@Rio113 for device tree
+@khaeruisfine
+Mt6833 Aliance
+
+By @roseia001
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+23,2023-06-15T15:51:58,2023-06-15T15:57:05,CrDroid,,13,"Vanilla, Unofficial, Official",https://sourceforge.net/projects/camellia-rom/files/crDroid/,photos/photo_11@15-06-2023_15-51-58.jpg,,,,@khaeruisfine,"#CrDroid #Unofficial #T #ROM #Camellia #Camellian
+CrDroidv9.5 - UNOFFICIAL | Android 13
+Updated: 15/06/'23
+
+▪️Download
+▪️XDA thread
+▪️Support
+▪️Donate
+▪️Flashing Steps
+
+Changelog:
+• Initial A13 Release
+
+Bugs:
+• Default Browser Broken
+
+Notes:
+• Flash with CrDroid Recovery
+• Vanilla Build
+• Selinux is Permissive
+
+Special thanks:
+@Rio113 for device tree
+@roseia001 for everything
+
+By @khaeruisfine
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+24,2023-06-15T22:24:05,2023-07-06T19:29:00,PixelExperience,,13,"Unofficial, Official",https://github.com/dm700-devs/OTA/releases/tag/1.0,photos/photo_1@08-04-2023_12-38-00.jpg,,,,@rio113,"#PEPlus #Unofficial #ROM #Camellia #Camellian #T 
+PixelExperience Plus - UNOFFICIAL | Android 13
+Released: 15/06/2023
+Kernel Source: Prebuilt
+
+▪️ Download
+▪️ XDA
+▪️ Support Group
+▪️ Flashing Guide
+▪️ Donation
+
+Changelog:
+▪️ Updated kernel
+▪️ Updated blobs
+▪️ Added OTA support
+
+Known issues:
+▪️ Bluetooth audio randomly disconnects
+
+Notes:
+• Flash from PE Recovery
+
+Thanks to:
+• @kmosq for the server
+• Testers
+
+By @rio113
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+25,2023-06-16T10:16:11,2023-06-16T11:02:36,SuperiorOS,,13,"Unofficial, Official",https://mega.nz/folder/ME13VTQD#nxdO0yLN96vnKVecNsXPAg,photos/photo_13@16-06-2023_10-16-11.jpg,,,,@ramshell688,"#SuperiorOS #Unofficial #ROM #T #OSS #Camellia #Camellian
+SuperiorOS - UNOFFICIAL | Android 13
+Released: 10/06/2023
+
+▪️Download
+▪️XDA thread
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Initial build
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash with SuperiorOS Recovery
+• SELinux Permissive​
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007 for tester
+Mt6833 Alience
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+26,2023-06-16T15:35:35,2023-06-16T15:48:27,Android,13,13,"Unofficial, Official",https://github.com/dm700-devs/OTA/releases/tag/2.0,photos/photo_14@16-06-2023_15-35-35.jpg,,,,@rio113,"#EvolutionX #Unofficial #ROM #Camellia #Camellian #T 
+EvolutionX - UNOFFICIAL | Android 13
+Released: 16/06/2023
+Kernel Source: Prebuilt
+
+▪️ Download
+▪️ XDA
+▪️ Support Group
+▪️ Flashing Guide
+▪️ Donation
+
+Changelog:
+▪️ Initial Build
+
+Known issues:
+▪️ Bluetooth audio randomly disconnects
+▪️ Selinux is permissive
+
+Notes:
+• Flash from PE Recovery
+
+Thanks to:
+• @kmosq for the server
+• Testers
+
+By @rio113
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+27,2023-06-16T18:25:22,2023-06-16T22:57:50,EvolutionX,,13,"Unofficial, Official",,,,,,,"EvolutionX - UNOFFICIAL | Android 13
+Update: ROM was updated to fix the OTA server issue.
+
+Reflashing the ROM without wiping data is fine if you were on the previous build."
+28,2023-06-25T11:38:20,2023-06-25T11:39:24,BananaDroid,,13,"Unofficial, Official",https://mega.nz/folder/wQV1EQgD#74FWPhuKPIjlOl-g4UOPmA,photos/photo_15@25-06-2023_11-38-20.jpg,,,,@ramshell688,"#BananaDroid #Unofficial #ROM #T #OSS #Camellia #Camellian
+BananaDroid - UNOFFICIAL | Android 13
+Released: 23/06/2023
+
+▪️Download
+▪️XDA
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Initial build
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash with BananaDroid Recovery
+• SELinux Permissive​
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007 for tester
+Mt6833 Alience
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+29,2023-06-25T22:27:33,2023-06-25T23:13:46,LineageOS,,13,"GApps, Vanilla, Unofficial, Official",https://sourceforge.net/projects/camellia-rom/files/LineageOS/,photos/photo_16@25-06-2023_22-27-33.jpg,,,,@roseia001,"#LineageOS #Unofficial #ROM #T #Camellia #Camellian #Vanilla
+LineageOS 20 - UNOFFICIAL | Android 13
+Released: 26/06/2023
+
+▪️Download
+▪️Support
+▪️Flashing steps
+
+Changelog:
+▪️ June security patch.
+
+Bugs:
+▪️ Bluetooth audio randomly disconnects
+
+Notes:
+• Flash with LineageOS Recovery​
+• Vanilla build (Flash Gapps by using NikGapps)
+
+Special thanks:
+@Rio113 for device tree
+@khaeruisfine
+Mt6833 Aliance
+
+By @roseia001
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+30,2023-06-27T18:12:05,2023-06-28T00:00:29,AlphaDroid,,13,"Unofficial, Official",https://sourceforge.net/projects/naokoshoto-stuffs/files/camellia-alpha/Release/,photos/photo_17@27-06-2023_18-12-05.jpg,,,,@naokoshoto,"#AlphaDroid #Unofficial #ROM #T #Camellia #Camellian
+AlphaDroid v1.5.1 - UNOFFICIAL | Android 13
+Released: 27/06/2023
+
+▪️Download
+▪️XDA
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Initial release.
+• May security patch.
+
+Bugs:
+• Bluetooth audio randomly disconnects
+
+Notes:
+• Flash with Alpha/CrDroid Recovery
+• SELinux Permissive
+
+Special thanks:
+- @Rio113 for device tree
+- MT6833 Aliance for guide & helping
+- @GiovanniLemos for early tester
+
+By @naokoshoto
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+31,2023-06-29T17:22:48,2023-06-29T17:23:12,CherishOS,,13,"Unofficial, Official",https://mega.nz/file/0EF1nLCD#bzqyFh_U49ONgIFaPsk5jDL3a8U5VoOjzMyP-BGHaxw,photos/photo_18@29-06-2023_17-22-48.jpg,,,,@ramshell688,"#CherishOS #Unofficial #ROM #T #Camellia #Camellian
+Cherish OS 4.9 - UNOFFICIAL | Android 13
+Released: 29/06/2023
+
+▪️Download
+▪️XDA thread
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Initial build
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash with PixelExperience Recovery
+• June Security Patch​
+• SELinux Permissive
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007
+Mt6833 Alliance
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+32,2023-06-30T16:23:47,2023-06-30T23:42:39,Android,13,13,"Unofficial, Official",https://github.com/dm700-devs/OTA/releases/tag/3.0,photos/photo_14@16-06-2023_15-35-35.jpg,,,,@rio113,"#EvolutionX #Unofficial #ROM #Camellia #Camellian #T 
+EvolutionX - UNOFFICIAL | Android 13
+Released: 30/06/2023
+
+▪️ Download
+▪️ Support Group
+▪️ Flashing Guide
+▪️ Donation
+
+Changelog:
+▪️ June Security Patch
+▪️ Build sensor AIDL from source
+▪️ Update overlays to V14.0.4.0.TKSMIXM
+▪️ Refactor props from V14.0.4.0.TKSMIXM
+▪️ Build WiFi stack from source
+▪️ Increased smoothness
+▪️ Fixed OTA support
+
+Known issues:
+▪️ Bluetooth audio randomly disconnects
+▪️ ROM is permissive
+
+Notes:
+• Flash from PE Recovery
+
+Thanks to:
+• @kmosq for the server
+• Testers
+
+By @rio113
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+33,2023-07-08T14:16:21,2023-07-08T14:17:09,Android,13,13,"Unofficial, Official",https://mega.nz/folder/gEFChRzI#jIScZsw7sbzGuZ-LbEFqWw,photos/photo_20@08-07-2023_14-16-21.jpg,,,,@ramshell688,"#ProtonPlus #Unofficial #ROM #T #Camellia #Camellian
+ProtonPlus 13.1 - UNOFFICIAL | Android 13
+Released: 07/07/2023
+
+▪️Download
+▪️XDA
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Initial build
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash with Proton Recovery
+• May Security Patch
+• SELinux Permissive​
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007 for tester
+Mt6833 Alience
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+34,2023-07-08T21:26:21,2023-07-09T02:18:17,AlphaDroid,,13,"Unofficial, Official","https://sourceforge.net/projects/naokoshoto-stuffs/files/camellia-alpha/Release/AlphaDroid-13.0-20230708-camellia-full_gapps-v1.6.zip/download, https://sourceforge.net/projects/naokoshoto-stuffs/files/camellia-alpha/Release/boot.img/download",photos/photo_21@08-07-2023_21-26-21.jpg,,,,@naokoshoto,"#AlphaDroid #Unofficial #ROM #T #Camellia #Camellian
+AlphaDroid v1.6 - UNOFFICIAL | Android 13
+Released: 08/07/2023
+
+▪️Download ROM | boot.img
+▪️XDA
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+▪️Donation
+
+Changelog:
+• June security patch & QPR3
+• Build sensor AIDL from source
+• Update overlays to V14.0.4.0.TKSMIXM
+• Refactor props from V14.0.4.0.TKSMIXM
+• Build WiFi stack from source
+• Props cleanup
+
+Bugs:
+• Bluetooth audio randomly disconnects
+
+Notes:
+• Flash with Alpha/CrDroid Recovery
+• SELinux Permissive
+
+Special thanks:
+- @Rio113 for device tree
+- MT6833 Aliance for guide & helping
+- @GiovanniLemos for early tester
+
+By @naokoshoto
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+35,2023-07-11T13:18:46,2023-07-11T13:19:59,CherishOS,,13,"GApps, Vanilla, Official",https://sourceforge.net/projects/cherish-os/files/device/camellia/,photos/photo_22@11-07-2023_13-18-46.jpg,,,,@ramshell688,"#CherishOS #Official #ROM #T #Camellia #Camellian
+Cherish OS 4.10 - OFFICIAL | Android 13
+Released: 10/07/2023
+
+▪️Download
+▪️XDA thread
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Gapps & Vanilla built
+• Gapps: OTA supported
+• July security patch
+
+Bugs:
+• Bluetooth audio disconnects randomly
+
+Notes:
+• Using Cherish recovery
+• SELinux is Permissive
+
+Special thanks:
+@Rio113 for device tree
+@VipulSharma_007
+Mt6833 Alliance
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+36,2023-07-12T12:39:48,2023-07-12T12:40:33,LineageOS,,13,"GApps, Vanilla, Unofficial, Official",https://github.com/Keith113/OTA/releases/tag/1.0,photos/photo_23@12-07-2023_12-39-48.jpg,,,,@roseia001,"#LineageOS #Unofficial #ROM #T #Camellia #Camellian #Vanilla
+LineageOS 20 - UNOFFICIAL | Android 13
+Released: 12/07/2023
+
+▪️Download
+▪️Support
+▪️Flashing steps
+
+Changelog:
+▪️ July security patch
+▪️ Added OTA Supported
+
+Bugs:
+▪️ Bluetooth audio randomly disconnects
+
+Notes:
+• Flash with LineageOS Recovery​
+• Vanilla build (Flash Gapps by using NikGapps)
+• NikGapps Core variant isn't working. (Report it to NikGapps)
+
+Special thanks:
+@Rio113 for device tree
+@LineageOS_Defender For testing OTA
+Mt6833 Aliance
+
+By @roseia001
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+37,2023-07-13T01:00:28,2023-07-13T01:24:42,Android,13,13,"Unofficial, Official",https://github.com/dm700-devs/OTA/releases/tag/4.0,photos/photo_14@16-06-2023_15-35-35.jpg,,,,@rio113,"#EvolutionX #Unofficial #ROM #T #Camellia #Camellian 
+EvolutionX - UNOFFICIAL | Android 13
+Released: 13/07/2023
+
+▪️ Download
+▪️ Support Group
+▪️ Flashing Guide
+▪️ Donation
+
+Changelog:
+▪️ July Security Patch
+▪️ Build USB HAL from source
+▪️ Fixed ADB sideload
+
+Known issues:
+▪️ BT audio randomly disconnects
+▪️ SELinux is permissive
+
+Notes:
+• Flash from EvoX Recovery
+
+Thanks to:
+• @kmosq for the server
+• Testers
+
+By @rio113
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+38,2023-07-13T13:58:26,2023-07-13T14:01:31,PixelExperience,,13,"Unofficial, Official",https://github.com/dm700-devs/OTA/releases/tag/5.0,photos/photo_1@08-04-2023_12-38-00.jpg,,,,@rio113,"#PEPlus #Unofficial #ROM #T #Camellia #Camellian  
+PixelExperience Plus - UNOFFICIAL | Android 13
+Released: 13/07/2023
+
+▪️ Download
+▪️ Support Group
+▪️ Flashing Guide
+▪️ Donation
+
+Changelog:
+•  July Security Patch
+•  Build USB HAL from source
+•  Build sensor AIDL from source
+•  Update overlays to V14.0.4.0.TKSMIXM
+•  Refactor props from V14.0.4.0.TKSMIXM
+•  Build WiFi stack from source
+•  Increased smoothness
+
+Known issues:
+• Bluetooth audio randomly disconnects
+
+Notes:
+• Flash from PE Recovery
+
+Thanks to:
+• @kmosq for the server
+• Testers
+
+By @rio113
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+39,2023-07-14T17:39:09,2023-07-14T17:44:12,DerpFest,,,"GApps, Unofficial, Official",https://sourceforge.net/projects/camellia-rom/files/DerpFest/,photos/photo_26@14-07-2023_17-39-09.jpg,,,,@roseia001,"#Derp #DerpFest #ROM #T #Camellia #Camellian
+DerpFest 13 Tango | UNOFFICIAL
+Updated: 14/07/23'
+
+▪️Download
+▪️Support
+▪️Flashing steps
+
+Changelog:
+▪️ Initial build
+
+Bugs:
+▪️ Bluetooth audio randomly disconnects
+
+Notes:
+• Flash with DerpFest Recovery​
+• Gapps build
+• If someone is lagging, please disable blur.
+
+Special thanks:
+@Rio113 for device tree
+@VipulSharma_007 for early testing
+Mt6833 Aliance
+
+By @roseia001
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+40,2023-07-15T15:02:54,2023-07-15T15:04:20,SuperiorOS,,13,"Unofficial, Official",https://mega.nz/file/UUlCDZSD#dNiM4kNR_BPGFRaANdTVyht4Tap2WCY1tJwkekzuRJg,photos/photo_27@15-07-2023_15-02-54.jpg,,,,@ramshell688,"#SuperiorOS #Unofficial #ROM #T #Camellia #Camellian
+SuperiorOS - UNOFFICIAL | Android 13
+Updated: 13/07/2023
+
+▪️Download
+▪️XDA thread
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+•  July security patch
+•  Fix face unlock not showing 
+•  Improvement speed and performance
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash with SuperiorOS Recovery
+• SELinux is Permissive​
+
+Special thanks
+@Rio113 for device tree
+Mt6833 Alience
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+41,2023-07-17T19:20:33,2023-07-17T19:21:15,PixelOS,,,"Unofficial, Official",https://sourceforge.net/projects/camellia-rom/files/PixelOS/,photos/photo_28@17-07-2023_19-20-33.jpg,,,,@roseia001,"#PixelOS #ROM #T #Camellia #Camellian
+PixelOS v13.0 | UNOFFICIAL | A13
+Released: 18/07/23'
+
+▪️Download
+▪️Support
+▪️Flashing steps
+
+Changelog:
+•  Synced the latest July security patch
+Source changelogs at blog.pixelos.net
+•  Switched the arch variant to armv8-2a-dotprod to unlock some optimizations
+•  Added OTA supported
+•  Switched to default Hybird sched
+•  Set 2.5GB ZRAM to all variants
+•  Enabled suspend to RAM
+•  Set vulkan as hwui renderer
+•  Performance improvements
+•  Added AOD (Not really recommended to use it daily) 
+
+Bugs:
+• Bluetooth audio randomly disconnects
+
+Notes:
+ • Flash with PixelOS recovery 
+   Remember need to enter apply update twice to get it working
+ • SELinux is Permissive 
+
+Special thanks
+@Rio113 for device tree
+Mt6833 Aliance
+
+By @roseia001
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+42,2023-07-21T11:17:41,2023-07-21T11:18:23,CrDroid,,13,"GApps, Vanilla, Unofficial, Official","https://sourceforge.net/projects/camellia-rom/files/CrDroid/crDroidAndroid-13.0-20230721-camellia-v9.7.zip/download, https://sourceforge.net/projects/nikgapps/files/Config-Releases/NikGapps-T/21-Jul-2023/NikGapps-khaeru-arm64-13-20230721.zip/download",photos/photo_11@15-06-2023_15-51-58.jpg,,,,@khaeruisfine,"#CrDroid #Unofficial #T #ROM #Camellia #OSS
+CrDroidv9.7 - UNOFFICIAL | Android 13
+Updated: 21/07/'23
+
+▪️Download
+▪️Support
+▪️Donate
+▪️Flashing Steps
+
+Changelog:
+• July Security Patch. 
+• Enable back HMP Sched
+• Switched the arch variant to armv8-2a-dotprod to unlock some optimizations
+• Performance improvements
+
+Bugs:
+• Bluetooth audio randomly disconnects
+
+Notes:
+• Flash with CrDroid Recovery
+• Vanilla Build flash this gapps
+• Selinux is Permissive
+
+Special thanks
+@Rio113 for device tree
+@roseia001 for everything
+
+By @khaeruisfine
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+43,2023-07-23T00:28:56,2023-07-23T02:46:16,xtended,,13,"Unofficial, Official",https://sourceforge.net/projects/camellia-roms/files/PixelExtended/Release/,photos/photo_30@23-07-2023_00-28-56.jpg,,,,@ramshell688,"#PixelExtended #Unofficial #ROM #T #Camellia #Camellian
+PixelExtended 5.9 - UNOFFICIAL | Android 13
+Updated: 20/07/2023
+
+▪️ Download
+▪️ XDA thread
+▪️ Support
+▪️ Flashing steps
+▪️ Screenshot
+
+Changelog:
+• July security patch
+• Adapt Pixel Power HAL
+• Added Hide IME space feature
+• Improvement speed and performance
+
+Bugs:
+• BT audio disconnects randomly 
+
+Notes:
+• Flash with PixelExperience Recovery​
+• SELinux is Permissive
+
+Special thanks
+@Rio113 for device tree
+Mt6833 Aliance
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+44,2023-07-25T01:23:57,2023-07-25T01:59:32,AncientOS,,13,Official,"https://mega.nz/folder/ynhx2KKD#tmQOTCQUTKgftEVnSR0DUQ, https://mega.nz/folder/vy4ACBjY#72JHWLmO80uYCGdIeTFqBw",photos/photo_31@25-07-2023_01-23-57.jpg,,,,@Asknesslisa,"#AncientOS #Port #T #Camellia
+#Camellian
+AncientOS v -7.0 Port | Android 13
+
+▪️Camellia | Camellian
+▪️Support
+▪️Flashing
+▪️Screenshot
+
+Changelog:
+• MIUI Camera
+
+Bugs:
+• The screen turns off if you turn the brightness down too much
+
+By @Asknesslisa
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+46,2023-08-01T11:16:24,2023-08-01T11:28:08,RisingOS,,13,"GApps, Unofficial, Official",https://sourceforge.net/projects/camellia-rom/files/RisingOS/,photos/photo_32@01-08-2023_11-16-24.jpg,,,,@kucingabu,"#RisingOS #Unofficial #T #ROM #Camellia #Camallian
+RisingOS v1.2.5 - UNOFFICIAL | Android 13
+Updated: 31/07/'23
+
+▪️Download
+▪️Support
+▪️Flashing Steps
+
+Changelog:
+• Initial Release with July Security Patch. 
+
+Bugs:
+• Bluetooth audio randomly disconnects
+
+Notes:
+• Flash with Rising Recovery 
+• Gapps build
+• Selinux is Permissive
+
+Special thanks
+@Rio113 for device tree
+@roseia001 for everything
+@VipulSharma_007 for testing
+
+By @kucingabu
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+47,2023-08-01T11:18:03,2023-08-01T11:18:19,ArrowOS,,13,"GApps, Unofficial, Official",https://sourceforge.net/projects/camellia-rom/files/ArrowOS/,photos/photo_33@01-08-2023_11-18-03.jpg,,,,@noah_allen,"#ArrowOS #ROM #T #Camellia #Camellian
+ArrowOS UNOFFICIAL | Android 13
+Released: 1/8/23'
+
+▪️Download
+▪️Support
+▪️Flashing steps
+
+Changelog:
+•  Initial Build
+•  Synced the latest July security patch
+
+Bugs:
+• Bluetooth audio randomly disconnects
+
+Notes:
+ • Flash with ArrowOS recovery 
+ • SELinux is Permissive 
+ • Gapps build
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007 for testing
+Mt6833 Aliance
+
+By @noah_allen
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+51,2023-08-11T14:00:29,2023-08-11T14:04:16,CrDroid,,13,"Vanilla, Official",https://crdroid.net/downloads#camellia,photos/photo_34@11-08-2023_14-00-29.jpg,,,,@kucingabu,"#CrDroid #Official #T #ROM #Camellia #Camellian
+CrDroid v9.7 - OFFICIAL | Android 13
+Updated: 09/08/'23
+
+▪️Download
+▪️XDA thread
+▪️Support
+▪️Flashing Steps
+
+Changelog:
+• Initial Official Build with July SP
+• Selinux is Enforcing
+• Switch to Pixel PowerHal
+
+Bugs:
+• Bluetooth audio randomly disconnects
+
+Notes:
+• Flash with CrDroid Recovery
+• Vanilla Build
+• Selinux is Enforcing
+
+Special thanks
+@Rio113 for device tree
+@noah_allen for everything
+
+By @kucingabu
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+52,2023-08-12T16:02:42,2023-08-12T16:04:16,Android,13,13,"GApps, Unofficial, Official",https://mega.nz/folder/x64BzCxL#OwyI_STqi_9g5I5PJpIkNQ,photos/photo_35@12-08-2023_16-02-42.jpg,,,,@m929_official,"#ProjectBlaze #Unofficial #ROM #T #Camellia #Camellian
+ProjectBlaze 2.9 UNOFFICIAL | Android 13
+Released: 12/08/2023
+
+▪️Download
+▪️Support
+▪️Flashing Steps
+
+Changelog:
+• First build
+
+Bugs:
+• You tell me
+• Bluetooth audio randomly disconnects
+
+Notes:
+• Flash with Recovery
+• Face Unlock included
+• GAPPS Included
+• SELinux is Enforcing
+
+Special thanks
+• @Rio113 for device tree 
+• @VipulSharma_007 for testing
+•  MT6833 Aliance
+
+By @m929_official 
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+53,2023-08-16T01:24:17,2023-08-16T02:41:46,CherishOS,,13,"GApps, Vanilla, Official",https://sourceforge.net/projects/cherish-os/files/device/camellia/,photos/photo_36@16-08-2023_01-24-17.jpg,,,,@ramshell688,"#CherishOS #Official #ROM #T #Camellia #Camellian
+CherishOS 4.11 - OFFICIAL | Android 13
+Updated: 13/08/2023
+
+▪️Download
+▪️XDA thread
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Fix ADB Sideload
+• August security patch
+• SELinux is Enforcing
+• Switch HWUI rendering backend to skiagl
+
+Bugs:
+• Bluetooth audio randomly disconnects
+
+Notes:
+• Gapps and Vanilla build
+• Using Cherish recovery
+• Clean flash recommended from Permissive
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007
+Mt6833 Alliance
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+54,2023-08-16T10:20:17,2023-08-16T10:20:43,xtended,,13,Official,"https://sourceforge.net/projects/pixelextended/files/camellia/, https://sourceforge.net/projects/camellia-roms/files/PixelExtended/boot.img/download",photos/photo_37@16-08-2023_10-20-17.jpg,,,,@ramshell688,"#PixelExtended #Official #ROM #T #Camellia #Camellian
+PixelExtended 5.10 - OFFICIAL | Android 13
+Updated: 15/08/2023
+
+▪️ Download
+▪️ XDA thread
+▪️ Support
+▪️ Flashing steps
+▪️ Screenshot
+
+Changelog:
+• Initial official release
+• August security patch
+• SELinux is Enforcing
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash with pixel recovery​
+
+Special thanks
+@Rio113 for device tree
+Mt6833 Aliance
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+55,2023-08-16T10:32:03,2023-08-16T10:32:06,SuperiorOS,,13,"Unofficial, Official",https://sourceforge.net/projects/camellia-roms/files/SuperiorOS/Release/,photos/photo_38@16-08-2023_10-32-03.jpg,,,,@ramshell688,"#SuperiorOS #Unofficial #ROM #T #Camellia #Camellian
+SuperiorOS - UNOFFICIAL | Android 13
+Updated: 12/08/2023
+
+▪️Download
+▪️XDA thread
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• August security patch
+• SELinux is Enforcing
+• Disable Vulkan UI Rendered
+• Remove props client composition cache
+• Disable stune boost for top-app
+
+Bugs:
+• Bluetooth audio randomly disconnects
+
+Notes:
+• Flash with SuperiorOS Recovery
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007 for tester
+Mt6833 Alience
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+56,2023-08-17T23:36:20,2023-08-18T00:21:59,PixelExperience,,13,"Unofficial, Official",https://github.com/dm700-devs/OTA/releases/tag/7.0,photos/photo_1@08-04-2023_12-38-00.jpg,,,,@rio113,"#PEPlus #Unofficial #ROM #T #Camellia #Camellian  
+PixelExperience Plus - UNOFFICIAL | Android 13
+Released: 17/08/2023
+
+▪️ Download
+▪️ XDA
+▪️ Support Group
+▪️ Flashing Guide
+▪️ Donation
+
+Changelog:
+• August Security Patch
+• SELinux is Enforcing
+• Implemented Pixel Power HAL
+• Increased smoothness and stability
+• Fixed Bluetooth randomly disconnecting
+• Fixed FP sensor not working for some users
+• Many under-the-hood changes
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash from PE Recovery
+
+Thanks to:
+• @kmosq for the server
+• Testers
+
+By @rio113
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+57,2023-08-18T09:26:50,2023-08-18T09:28:59,CrDroid,,13,"Vanilla, Official",https://crdroid.net/downloads#camellia,photos/photo_34@11-08-2023_14-00-29.jpg,,,,@kucingabu,"#CrDroid #Official #T #ROM #Camellia #Camellian
+CrDroidv9.8 - OFFICIAL | Android 13
+Updated: 18/08/'23
+
+▪️Download
+▪️XDA thread
+▪️Support
+▪️Flashing Steps
+
+Changelog:
+• August SP
+• Fixed fingerprint problem on some devices
+• Fixed BT Audio bug.
+
+Bugs:
+• You tell me!
+
+Notes:
+• Flash with CrDroid Recovery
+• Vanilla Build
+• Selinux is Enforcing
+
+Special thanks:
+@Rio113 for device tree
+@noah_allen for everything
+
+By @kucingabu
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+58,2023-08-18T10:18:06,2023-08-18T10:18:15,Android,13,13,"Unofficial, Official",https://github.com/dm700-devs/OTA/releases/tag/6.0,photos/photo_14@16-06-2023_15-35-35.jpg,,,,@rio113,"#EvolutionX #Unofficial #ROM #T #Camellia #Camellian 
+EvolutionX - UNOFFICIAL | Android 13
+Released: 18/08/2023
+
+▪️ Download
+▪️ Support Group
+▪️ Flashing Guide
+▪️ Donation
+
+Changelog:
+• August Security Patch
+• SELinux is Enforcing
+• Implemented Pixel Power HAL
+• Increased smoothness and stability
+• Fixed Bluetooth randomly disconnecting
+• Fixed FP sensor not working for some users
+• Many under-the-hood changes
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash from EvoX Recovery
+
+Thanks to:
+• @kmosq for the server
+• Testers
+
+By @rio113
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+59,2023-08-19T14:09:23,2023-08-19T15:11:06,PixelOS,,,"Unofficial, Official",https://sourceforge.net/projects/camellia-rom/files/PixelOS/,photos/photo_42@19-08-2023_14-09-23.jpg,,,,@noah_allen,"#PixelOS #ROM #T #Camellia #Camellian
+PixelOS v13.0 | UNOFFICIAL | A13
+Released: 19/08/23'
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️XDA thread
+
+Changelog:
+• Synced the latest August security patch
+  Source changelogs at blog.pixelos.net
+• SELinux is Enforcing
+
+Bugs:
+• Bluetooth audio randomly disconnects (50/50)
+
+Notes:
+ • Flash with PixelOS recovery 
+   Remember need to enter apply update twice to get it working
+
+Special thanks
+@Rio113 for device tree
+Mt6833 Aliance
+
+By @noah_allen
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+60,2023-08-19T22:20:25,2023-08-19T22:20:43,LineageOS,,13,"GApps, Vanilla, Unofficial, Official","https://m929.ru/files/camellia/lineage-20.0-20230819-UNOFFICIAL-camellia.zip, https://m929.ru/files/camellia-gapps/lineage-20.0-20230819-UNOFFICIAL-camellia-gapps.zip, https://m929.ru/files/camellia/boot.img",photos/photo_43@19-08-2023_22-20-25.jpg,,,,@m929_official,"#LineageOS #Unofficial #ROM #T #Camellia #Camellian 
+LineageOS 20.0 - UNOFFICIAL | Android 13
+Released: 19/08/2023
+
+▪️ Download vanilla 
+▪️ Download GAPPS build
+▪️ Download boot.img
+▪️ Support Group 
+▪️ Flashing Guide
+
+Changelog:
+• First build
+
+Bugs:
+• Bluetooth audio randomly disconnects (50/50)
+
+Notes:
+• Flash from LineageOS recovery
+• SELinux is Enforcing
+
+Thanks to:
+• @rio113 for device tree
+• @noah_allen for consultation
+• MT6833 Aliance
+
+By @m929_official
+Follow @pecamelliaupdates
+Join @pecamellia"
+62,2023-08-22T09:36:00,2023-08-22T10:17:13,SuperiorOS,,13,"Unofficial, Official",https://sourceforge.net/projects/camellia-roms/files/SuperiorOS/Release/,photos/photo_44@22-08-2023_09-36-00.jpg,,,,@ramshell688,"#SuperiorOS #Unofficial #ROM #T #Camellia #Camellian
+SuperiorOS - UNOFFICIAL | Android 13
+Updated: 21/08/2023
+
+▪️Download
+▪️XDA thread
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Add back Disable client composition cache
+• Fix Fingerprint sensor for some devices
+• Fix Bluetooth audio randomly disconnecting 
+• Improvement smoothness
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash with superior recovery
+• August security patch
+• SELinux Enforcing
+
+Special thanks
+@Rio113 for device tree
+Mt6833 Alience
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+64,2023-08-30T11:58:12,2023-08-31T05:10:17,AlphaDroid,,13,"GApps, Unofficial, Official","https://sourceforge.net/projects/naokoshoto-stuffs/files/camellia-alpha/Release/boot.img/download, https://sourceforge.net/projects/naokoshoto-stuffs/files/camellia-alpha/Release/AlphaDroid-13.0-20230830-camellia-gapps-v1.8.zip/download",photos/photo_45@30-08-2023_11-58-12.jpg,,,,@naokoshoto,"#AlphaDroid #Unofficial #ROM #T #Camellia #Camellian
+AlphaDroid v1.8 - UNOFFICIAL | Android 13
+Updated: 30/08/2023
+
+▪️ Download ROM | boot.img
+▪️ XDA thread
+▪️ Support
+▪️ Flashing steps
+▪️ Screenshots
+▪️ Donation
+
+Changelog:
+• ROM Source Changelog Here 
+• August security patch
+• SELinux Enforcing
+
+Bugs:
+• Please report it if exist
+
+Notes:
+• Flash with Alpha/CrDroid Recovery
+• GApps Included
+
+Special thanks:
+- @Rio113 for device tree
+- MT6833 Aliance for guide & helping
+- @GiovanniLemos & @Asknesslisa for tester
+
+By @naokoshoto
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+65,2023-08-31T15:43:57,2023-08-31T15:49:30,SparkOS,,13,"GApps, Vanilla, Unofficial, Official",https://sourceforge.net/projects/camellia-roms/files/SparkOS/,photos/photo_46@31-08-2023_15-43-57.jpg,,,,@ramshell688,"#SparkOS #Unofficial #ROM #T #Camellia #Camellian
+SparkOS 13.7 UNOFFICIAL | Android 13
+Released: 31/08/2023
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Initial build
+• August security patch
+• Include per-app thermal
+• SELinux Enforcing
+
+Bugs:
+- You tell me
+
+Notes:
+• Gapps and Vanilla build
+• Flash with spark recovery
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007 for tester
+Mt6833 Aliance
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+68,2023-09-05T01:03:46,2023-09-05T05:24:42,AlphaDroid,,13,"GApps, Official","https://sourceforge.net/projects/alphadroid-project/files/camellia/AlphaDroid-13.0-20230904-camellia-gapps-v1.8.zip/download, https://sourceforge.net/projects/alphadroid-project/files/camellia/boot.img/download",photos/photo_47@05-09-2023_01-03-46.jpg,,,,@NaokoShoto,"#AlphaDroid #Official #ROM #Android #T #Camellia #Camellian
+AlphaDroid 1.8  - OFFICIAL | Android 13
+Updated: 05/09/2023
+
+▪️Download ROM | Boot.img
+▪️️Source Changelog
+▪️️Device Changelog
+▪️Screenshots 
+▪️Flashing Steps
+▪️️Support 
+▪️️Donate
+
+Notes: 
+• GApps build
+• Required firmware: V14.0.5.0
+
+Credits :
+• Thanks to @Rio113 for device tree
+• Thanks MT6833 Alliance for helping
+• @GiovanniLemos & @Asknesslisa for testing
+
+By @NaokoShoto
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+70,2023-09-06T15:38:44,2023-09-06T15:46:37,,,,"Unofficial, Official","https://github.com/Noah113-Allen/OTA/releases/tag/3.0, https://github.com/pixelstar-devices/official_devices/tree/thirteen/changelogs/source",photos/photo_49@06-09-2023_15-38-44.jpg,,,,@noah_allen,"#PixelStar #Unofficial #Rom #T #Camellia #Camellian
+PixelStar Tiramisu 13.0 - Unofficial
+Updated: 6/09/'23
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Source Changelog
+▪️Screenshot
+
+Changelog:
+• Initial build
+
+Bugs:
+• Bluetooth audio randomly disconnects (50/50)
+
+Notes:
+ • Flash with PixelStar recovery
+
+Special thanks
+@Rio113 for device tree
+Mt6833 Aliance
+
+By @noah_allen
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+71,2023-09-13T16:59:54,2023-09-13T19:50:46,AlphaDroid,,13,"GApps, Official","https://sourceforge.net/projects/alphadroid-project/files/camellia/boot.img/download, https://sourceforge.net/projects/alphadroid-project/files/camellia/AlphaDroid-13.0-20230913-camellia-gapps-v1.8.zip/download",photos/photo_50@13-09-2023_16-59-54.jpg,,,,@NaokoShoto,"#AlphaDroid #Official #ROM #Android #T #Camellia #Camellian
+AlphaDroid 1.8  - OFFICIAL | Android 13
+Updated: 13/09/2023
+
+▪️Download ROM | Boot.img
+▪️️Source Changelog
+▪️️Device Changelog
+▪️Screenshots 
+▪️Flashing Steps
+▪️️Support 
+▪️️Donate
+
+Notes: 
+• GApps build
+• Required firmware: v14.0.5.0
+
+Credits :
+• Thanks to @Rio113 for device tree
+• Thanks MT6833 Alliance especially @noah_allen for helping
+• @GiovanniLemos & @Asknesslisa for tester
+
+By @NaokoShoto
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+72,2023-09-14T11:46:02,2023-09-14T11:50:08,RisingOS,,13,"GApps, Vanilla, Unofficial, Official",https://sourceforge.net/projects/camellia-roms/files/RisingOS/,photos/photo_51@14-09-2023_11-46-02.jpg,,,,@ramshell688,"#RisingOS #Unofficial #ROM #T #Camellia #Camellian
+RisingOS 1.4 Elysium - UNOFFICIAL | Android 13
+Released: 12/09/2023
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Initial build
+• September security patch
+• Include Thermal Profile
+• SELinux Enforcing
+
+Bugs:
+- You tell me
+
+Notes:
+• Gapps and Vanilla build
+• Flash with rising recovery
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007 for tester
+MT6833 Alliance
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+73,2023-09-22T22:24:46,2023-09-22T22:53:55,PixelExperience,,13,"Unofficial, Official",https://github.com/dm700-devs/OTA/releases/tag/8.0,photos/photo_1@08-04-2023_12-38-00.jpg,,,,@rio113,"#PEPlus #Unofficial #ROM #T #Camellia #Camellian  
+PixelExperience Plus - UNOFFICIAL | Android 13
+Released: 22/09/2023
+
+▪️ Download
+▪️ XDA
+▪️ Support Group
+▪️ Flashing Guide
+▪️ Donation
+
+Changelog:
+• Implemented Pixel Thermal HAL
+• Added Lift-to-wake feature
+• Increased smoothness and stability
+• Many under-the-hood changes
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash from PE Recovery
+
+Thanks to:
+• @kmosq for the server
+• Testers
+
+By @rio113
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+74,2023-09-23T00:11:10,2023-09-23T06:30:55,Android,13,13,"Unofficial, Official",https://github.com/dm700-devs/OTA/releases/tag/9.0,photos/photo_14@16-06-2023_15-35-35.jpg,,,,@rio113,"#EvolutionX #Unofficial #ROM #T #Camellia #Camellian 
+EvolutionX - UNOFFICIAL | Android 13
+Released: 22/09/2023
+
+▪️ Download
+▪️ Support Group
+▪️ Flashing Guide
+▪️ Donation
+
+Changelog:
+• September Security Patch
+• Implemented Pixel Thermal HAL
+• Added Lift-to-wake feature
+• Increased smoothness and stability
+• Many under-the-hood changes
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash from EvoX Recovery
+
+Thanks to:
+• @kmosq for the server
+• Testers
+
+By @rio113
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+75,2023-09-23T16:39:58,2023-09-23T17:05:22,HavocOS,,13,"Unofficial, Official",https://sourceforge.net/projects/camellia-roms/files/HavocOS/,photos/photo_54@23-09-2023_16-39-58.jpg,,,,@ramshell688,"#HavocOS #Unofficial #ROM #T #Camellia #Camellian
+HavocOS 6.0 - UNOFFICIAL | Android 13
+Released: 20/09/2023
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• All merge to enforcing build
+• August security patch
+• Include thermal profile
+• SELinux Enforcing
+• Improve smoothness
+
+Bugs:
+• After install magisk, bugs reboot stuck at lockscreen a few second, no magisk no problem!!
+
+Notes:
+• Flash with Havoc recovery
+• Clean flash from Permissive
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007 for tester
+Mt6833 Aliance
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+76,2023-09-23T16:39:58,2023-09-23T17:05:38,SuperiorOS,,13,"GApps, Official",https://sourceforge.net/projects/camellia-roms/files/SuperiorExtended/,photos/photo_55@23-09-2023_16-39-58.jpg,,,,@ramshell688,"#SuperiorOSExtended #ROM #T #Camellia #Camellian
+SuperiorOS Extended | Android 13
+Released: 21/09/2023
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• September Security Patch 
+• Improve smoothness
+• Source.
+
+Notes:
+• Gapps build
+• SELinux Enforcing
+• Clean flash recommended 
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007 for tester
+MT6833 Alience
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+77,2023-09-25T03:59:31,2023-09-25T06:15:16,,,,Official,"https://www.pling.com/p/2066696, https://github.com/pixelstar-devices/official_devices/tree/thirteen/changelogs/source",photos/photo_56@25-09-2023_03-59-31.jpg,,,,@noah_allen,"#PixelStar #Official #Rom #T #Camellia #Camellian
+PixelStar Tiramisu 13.0 - Official
+Updated: 25/09/'23
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Source Changelog
+▪️Screenshot
+
+Changelog:
+• Update blobs to V14.0.5.0.TKSMIXM
+• Added task_profiles configuration 
+• Added thermal per-app and adapt to camellia
+• Added Lift to Check
+• Adjust Powerhint values
+• Optimized auto brightness adjustment
+• Increased brightness situation
+• Improve overall stability and performance
+• Implemented Pixel Thermal HAL
+
+Bugs:
+• Bluetooth audio randomly disconnects (50/50)
+
+Notes:
+ • Flash with PixelStar recovery
+
+Special thanks
+@Rio113 for device tree
+Mt6833 Aliance
+
+By @noah_allen
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+78,2023-09-28T16:28:30,2023-09-28T16:45:08,LineageOS,,13,"GApps, Vanilla, Unofficial, Official","https://m929.ru/files/camellia/boot.img, https://m929.ru/files/camellia/lineage-20.0-20230928-UNOFFICIAL-camellia.zip, https://m929.ru/files/camellia-gapps/lineage-20.0-20230928-UNOFFICIAL-camellia-gapps.zip",photos/photo_57@28-09-2023_16-28-30.jpg,,,,@m929_official,"#LineageOS #Unofficial #ROM #T #Camellia #Camellian 
+LineageOS 20.0 - UNOFFICIAL | Android 13
+Released: 28/09/2023
+
+▪️ Download vanilla 
+▪️ Download GAPPS build
+▪️ Download boot.img
+▪️ Support Group 
+▪️ Flashing Guide
+
+Changelog:
+• Added minimal and peak refresh rate 
+• September security patch
+
+Bugs:
+• Bluetooth audio randomly disconnects (50/50)
+
+Notes:
+• Flash from LineageOS recovery
+• SELinux Enforcing
+
+Special thanks
+• @rio113 for device tree
+• @noah_allen for consultation
+• MT6833 Aliance
+
+By @m929_official
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+79,2023-10-03T13:18:38,2023-10-03T13:55:51,SparkOS,,13,"GApps, Vanilla, Unofficial, Official",https://sourceforge.net/projects/camellia-roms/files/SparkOS/,photos/photo_58@03-10-2023_13-18-38.jpg,,,,@ramshell688,"#SparkOS #Unofficial #ROM #T #Camellia #Camellian
+SparkOS 13.8 UNOFFICIAL | Android 13
+Released: 01/10/2023
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• September security patch
+• Enable GL comp backpressure
+• Import task_profile configuration
+• Switch to Aperture camera
+
+Bugs:
+- You tell me
+
+Notes:
+• Gapps and Vanilla build
+• Flash with spark recovery
+• SELinux Enforcing
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007 for tester
+MT6833 Alience
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+80,2023-10-03T13:18:38,2023-10-03T13:55:46,CherishOS,,13,"GApps, Vanilla, Official",https://sourceforge.net/projects/camellia-roms/files/CherishOS/,photos/photo_59@03-10-2023_13-18-38.jpg,,,,@ramshell688,"#CherishOS #Official #ROM #T #Camellia #Camellian
+CherishOS 4.12 - OFFICIAL | Android 13
+Updated: 28/09/2023
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• September security patch
+• Add dynamic thermal profile implementation
+• Import task_profiles configuration
+• Switch to Aperture camera
+
+Bugs:
+• You tell me
+
+Notes:
+• Gapps and Vanilla build
+• Using Cherish recovery
+• SELinux Enforcing
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007
+MT6833 Alliance
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+81,2023-10-08T18:30:59,2023-10-20T14:03:54,AlphaDroid,,13,"GApps, Vanilla, Official","https://sourceforge.net/projects/alphadroid-project/files/camellia/AlphaDroid-13.0-20231008-camellia-vanilla-v1.10.zip/download, https://sourceforge.net/projects/alphadroid-project/files/camellia/boot.img/download, https://sourceforge.net/projects/alphadroid-project/files/camellia/AlphaDroid-13.0-20231008-camellia-gapps-v1.10.zip/download, https://sourceforge.net/projects/alphadroid-project/files/camellia/AlphaDroid-13.0-20230913-camellia-gapps-v1.8.zip/download",photos/photo_60@08-10-2023_18-30-59.jpg,,,,@NaokoShoto,"#AlphaDroid #Official #ROM #Android #T #Camellia #Camellian
+AlphaDroid 1.10  - OFFICIAL | Android 13
+Updated: 08/10/2023
+
+▪️GApps Flavour 
+▪️Vanilla Flavour 
+▪️boot.img (Important)
+▪️️Source Changelog
+▪️️Device Changelog
+▪️Flashing Steps
+▪️️Device Support Group 
+▪️️Donate
+
+Notes: 
+• GApps & Vanilla build
+• Required firmware: MIUI 14 
+
+Credits :
+• Thanks to @Rio113 for device tree
+• Thanks to MT6833 Alliance Team especially @noah_allen for helping
+• Thanks to @GiovanniLemos & @AskneZZZ for tester
+
+By @NaokoShoto
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+82,2023-10-21T09:38:12,2023-10-30T15:07:57,LineageOS,,13,"GApps, Vanilla, Unofficial, Official","https://m929.ru/files/camellia/boot.img, https://m929.ru/files/camellia/lineage-20.0-20231021-UNOFFICIAL-camellia.zip, https://m929.ru/files/camellia-gapps/lineage-20.0-20231021-UNOFFICIAL-camellia-gapps.zip",photos/photo_61@21-10-2023_09-38-12.jpg,,,,@m929_official,"#LineageOS #Unofficial #ROM #T #Camellia #Camellian 
+LineageOS 20.0 - UNOFFICIAL | Android 13
+Released: 21/10/2023
+
+▪️ Download vanilla 
+▪️ Download GAPPS build
+▪️ Download boot.img
+▪️ Support Group 
+▪️ Flashing Guide
+
+Changelog:
+• October 2023 security patch
+
+Bugs:
+• Bluetooth audio randomly disconnects (50/50)
+
+Notes:
+• Flash from LineageOS recovery
+• SeLinux is Enforcing
+
+Special thanks
+@rio113 for device tree
+@noah_allen for consultation
+MT6833 Aliance
+
+By @m929_official
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+83,2023-11-04T23:23:37,2023-11-05T16:31:46,PixelExperience,,13,"Unofficial, Official",https://github.com/dm700-devs/OTA/releases/tag/10.0,photos/photo_1@08-04-2023_12-38-00.jpg,,,,@rio113,"#PEPlus #Unofficial #ROM #T #Camellia #Camellian  
+PixelExperience Plus - UNOFFICIAL | Android 13 - EOL
+Released: 04/11/2023
+
+▪️ Download
+▪️ XDA
+▪️ Support Group
+▪️ Flashing Guide
+▪️ Donation
+
+Changelog:
+• September Security Patch
+• Completely new trees
+
+Bugs:
+• DT2W
+• You tell me
+
+Notes:
+• Flash from PE Recovery
+
+Thanks to:
+• @m929_official for the server
+• Testers
+
+By @rio113
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+85,2023-11-08T11:01:59,2023-11-08T13:28:00,Android,13,13,"Unofficial, Official",https://github.com/Noah113-Allen/OTA/releases/tag/6.0,photos/photo_64@08-11-2023_11-01-59.jpg,,,,@noah_allen,"#DroidX-UI #Arclight #Unofficial #ROM #T #Camellia #Camellian  
+DroidX-UI Arclight  - UNOFFICIAL | Android 13 - EOL
+Released: 08/11/2023
+
+▪️ Download
+▪️ Support Group
+▪️ Flashing Guide
+▪️ Donation
+▪️ Screenshot
+
+Changelog:
+• October Security Patch
+• Completely new trees
+• Improve overall stability and performance
+
+Bugs:
+• there is none :)
+
+Notes:
+• Flash from DroidX-UI Recovery
+
+Special thanks to:
+• @Rio113 for device tree
+• @VipulSharma_007 for testing
+
+By @noah_allen
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+86,2023-11-16T15:56:58,2023-11-16T17:39:24,AlphaDroid,,13,"GApps, Vanilla, Official","https://sourceforge.net/projects/alphadroid-project/files/camellia/AlphaDroid-13.0-20231116-camellia-gapps-v1.10.zip/download, https://sourceforge.net/projects/alphadroid-project/files/camellia/AlphaDroid-13.0-20231008-camellia-gapps-v1.10.zip/download, https://sourceforge.net/projects/alphadroid-project/files/camellia/AlphaDroid-13.0-20231116-camellia-vanilla-v1.10.zip/download, https://sourceforge.net/projects/alphadroid-project/files/camellia/boot.img/download",photos/photo_65@16-11-2023_15-56-58.jpg,,,,@NaokoShoto,"#AlphaDroid #Official #ROM #Android #T #Camellia #Camellian
+AlphaDroid 1.10  - OFFICIAL | Android 13
+Updated: 16/11/2023
+
+▪️Download - GApps | Vanilla | boot.img
+▪️️Source Changelog
+▪️️Device Changelog
+▪️Flashing Steps
+▪️️Device Support Group 
+▪️️Donate
+
+Notes: 
+• Device Tree Rebase, please kindly clean flash
+• Required firmware: MIUI 14 
+
+Credits :
+• Thanks to @Rio113 for device tree
+• Thanks to MT6833 Alliance Team especially @noah_allen for helping
+• Thanks to @VipulSharma_007 for testing
+
+By @NaokoShoto
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+89,2023-11-30T17:49:25,2023-12-01T15:26:08,Android,14,14,"Unofficial, Official",https://github.com/dm700-devs/OTA/releases/tag/11.0,photos/photo_14@16-06-2023_15-35-35.jpg,,,,@rio113,"#EvolutionX #Unofficial #ROM #U #Camellia #Camellian 
+EvolutionX - UNOFFICIAL | Android 14
+Released: 30/11/2023
+
+▪️ Download
+▪️ Support Group
+▪️ Flashing Guide
+▪️ Donation
+
+Changelog:
+• Initial build 
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash from EvoX Recovery
+• These trees are still a W.I.P. Expect glitches and inconsistencies 
+
+Thanks to:
+• @m929_official for the server
+• Testers
+
+By @rio113
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+90,2023-12-01T07:29:37,2023-12-11T18:48:38,OriginOS,3,13,Official,https://devuploads.com/2bzax2jsyh5g,photos/photo_67@01-12-2023_07-29-37.jpg,,,,@AskneZZZ,"#Origin #PORT #PD2241 #T #camellia #camellian
+OriginOS v3 - Port | Android 13
+Ported from: IQOO 8 Pro
+
+▪️Download
+▪️Screenshot
+▪️Support
+
+Bugs:
+• VoLTE/WIFI
+• NFC in camellian variant
+• BT
+• Brightness
+
+Notes:
+• Magisk Included
+• Format data manually in recovery
+• Gcam included
+
+Special thanks to:
+• @dellschvlz For everything
+• @rio113 For help
+• @noah_allen For test
+And Mystic chat
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+91,2023-12-02T12:35:20,2023-12-02T14:32:35,Matrixx,,14,"Unofficial, Official",https://sourceforge.net/projects/camellia-roms/files/MatrixxUI/,photos/photo_68@02-12-2023_12-35-20.jpg,,,,@ramshell688,"#Matrixx #Unofficial #ROM #U #Camellia #Camellian
+Matrixx 10.0 BETA-4 - UNOFFICIAL | Android 14
+Updated: 02/12/2023
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Initial release with Android 14
+• November security patch
+• SELinux Enforcing
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash with Matrixx recovery
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007 for testing
+MT6833 Alience
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+92,2023-12-03T02:48:39,2023-12-03T02:56:16,ArrowOS,,13,"Unofficial, Official",https://sourceforge.net/projects/camellia-rom/files/ArrowOS/Arrow-v13.1-camellia-UNOFFICIAL-20231202-VANILLA.zip/download,photos/photo_69@03-12-2023_02-48-39.jpg,,,,@AskneZZZ,"#Arrow #UNOFFICIAL #ROM #T #Camellia #Camellian
+ArrowOS - UNOFFICIAL | Android 13.0
+Released: 03/12/23
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• September security patch
+• Selinux is enforcing
+• Based on rebase trees
+
+Bugs:
+• You tell me :)
+
+Special thanks to:
+• @noah_allen For everything
+• @rio113 For device tree
+MT6833 Alliance
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+93,2023-12-03T14:17:24,2023-12-03T14:18:33,CherishOS,,14,"GApps, Official",https://sourceforge.net/projects/camellia-roms/files/CherishOS/,photos/photo_70@03-12-2023_14-17-24.jpg,,,,@ramshell688,"#CherishOS #Official #ROM #U #Camellia #Camellian
+CherishOS v5.0 - OFFICIAL | Android 14
+Updated: 03/12/2023
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Initial Android 14 build
+• November security patch
+• Based on rebase trees
+
+Bugs:
+• You tell me
+
+Notes:
+• Gapps build
+• Using Cherish recovery
+• SELinux is Enforcing
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007 for testing
+MT6833 Aliance
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+94,2023-12-03T14:55:25,2023-12-04T01:37:48,Android,13,13,Official,https://www.pling.com/p/2058150/,photos/photo_71@03-12-2023_14-55-25.jpg,,,,@ramshell688,"#Halcyon #Official #ROM #T #Camellia #Camellian
+Halcyon Tithonia Enchanted Vol.3 - OFFICIAL | Android 13
+Updated: 03/12/2023
+
+▪️Download
+▪️Support
+▪️Channel group
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Based on rebase trees
+• September security patch
+• SELinux Enforcing
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash with Halcyon recovery
+• User build
+
+Special thanks
+@Rio113 for device tree
+MT6833 Alience
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+95,2023-12-05T14:24:56,2023-12-05T15:11:10,Android,13,13,"GApps, Unofficial, Official",https://sourceforge.net/projects/camellia-build/files/afterlife/,photos/photo_72@05-12-2023_14-24-56.jpg,,,,@AskneZZZ,"#Afterlife #Wrath #Unofficial #ROM #T #Camellia #Camellian 
+Afterlife v4.0 - UNOFFICIAL | Android 13
+Released: 05/12/23
+
+▪️Download
+▪️Screenshot
+▪️Flashing steps
+▪️Support
+
+Changelog:
+• Initial build 
+• November security patch
+
+Notes:
+• Selinux is enforce 
+• Gapps build
+• Flash with PE recovery
+
+Special thanks
+• @Rio113 for device tree
+• @ramshell688 and @noah_allen for helping
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+96,2023-12-11T02:16:23,2023-12-13T07:50:36,Android,13,13,"GApps, Official",https://sourceforge.net/projects/afterlife-projects/files/release/camellia/AfterLife-V4.0-Wrath-OFFICIAL-camellia-20231210-Gapps.zip/download,photos/photo_73@11-12-2023_02-16-23.jpg,,,,@AskneZZZ,"#Afterlife #Wrath #Official #ROM #T #Camellia #Camellian
+Afterlife Wrath v4.0 - OFFICIAL | Android 13
+Updated: 10/12/23
+
+▪️Download
+▪️Screenshot
+▪️Support
+
+Changelog:
+• Initial official build
+
+Notes:
+• Selinux is enforcing
+• Gapps build
+
+Special thanks:
+• @rio113 For device tree 
+• @noah_allen For everything 
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+97,2023-12-12T14:06:26,2023-12-12T14:22:45,Android,14,14,"GApps, Unofficial, Official",https://sourceforge.net/projects/camellia-build/files/PixelBuilds/,photos/photo_74@12-12-2023_14-06-26.jpg,,,,,"#PB #Beta #Unofficial #ROM #U #Camellia #Camellian
+PixelBuilds Unity - Beta UNOFFICIAL | Android 14
+Released: 12/12/23
+
+▪️Download
+▪️Support
+▪️Screenshot
+
+Changelog:
+• Initial A14 build
+• Added FaceUnlock and Full Screen Apps
+
+Notes:
+• Flash with PB recovery
+• Gapps build
+
+Special thanks:
+• @rio113 For device tree
+
+By @noah_allen & @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+98,2023-12-14T16:32:20,2023-12-14T16:34:29,Android,14,14,"GApps, Unofficial, Official",https://sourceforge.net/projects/camellia-build/files/ProjectBlaze/,photos/photo_75@14-12-2023_16-32-20.jpg,,,,@AskneZZZ,"#ProjectBlaze #UNEARTH #Unofficial #ROM #U #Camellia #Camellian
+ProjectBlaze v3.0 UNEARTH - UNOFFICIAL | Android 14
+Released: 14/12/23
+
+▪️Download
+▪️Screenshots 
+▪️Support
+
+Changelog:
+• Initial build 
+• November security patch 
+
+Notes:
+• Gapps Build
+• Flash with blaze recovery
+
+Bugs:
+You tell me ;)
+
+Special thanks:
+• @noah_allen For everything
+• @rio113 For device tree
+
+By @AskneZZZ
+Follow @PocoM3ProOfficial
+Join @PocoM3ProUpdates"
+99,2023-12-18T06:48:04,2023-12-18T07:25:58,RisingOS,2.0,14,"GApps, Unofficial, Official",https://sourceforge.net/projects/camellia-build/files/risingOS/,photos/photo_76@18-12-2023_06-48-04.jpg,,,,@AskneZZZ,"#Rising #Florence #Unofficial #ROM #U #Camellia #Camellian
+RisingOS v2.0 - UNOFFICIAL | Android 14
+Released: 18/12/23
+
+▪️Download
+▪️Support
+▪️Screenshots
+
+Changelog:
+• Initial build
+
+Bugs:
+• Offline charging
+
+Notes:
+• Flash with Rising recovery
+• Gapps build
+• Ortus launcher included
+
+Special thanks:
+• @rio113 For device tree
+• @noah_allen For everything
+
+By @AskneZZZ
+Follow @PocoM3ProOfficial
+Join @PocoM3ProUpdates"
+100,2023-12-19T17:54:06,2023-12-19T17:54:31,LineageOS,,13,"GApps, Vanilla, Unofficial, Official","https://m929.ru/files/camellia/boot.img, https://m929.ru/files/camellia/lineage-20.0-20231219-UNOFFICIAL-camellia.zip, https://m929.ru/files/camellia-gapps/lineage-20.0-20231219-UNOFFICIAL-camellia-gapps.zip",photos/photo_77@19-12-2023_17-54-06.jpg,,,,@m929_official,"#LineageOS #Unofficial #ROM #T #Camellia #Camellian 
+LineageOS 20.0 - UNOFFICIAL | Android 13
+Released: 19/12/2023
+
+▪️ Download vanilla 
+▪️ Download GAPPS build
+▪️ Download boot.img
+▪️ Support Group 
+▪️ Flashing Guide
+
+Changelog:
+• December 2023 security patch
+• New device tree
+
+Bugs:
+• Let me know, if you found
+
+Notes:
+• Flash from LineageOS recovery
+• SeLinux is Enforcing
+
+Special thanks
+@rio113 for device tree
+@noah_allen for consultation
+MT6833 Aliance
+
+By @m929_official
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+102,2023-12-21T23:49:14,2023-12-21T23:49:32,Android,14,14,"Unofficial, Official",https://github.com/dm700-devs/OTA/releases/tag/12.0,photos/photo_14@16-06-2023_15-35-35.jpg,,,,@rio113,"#EvolutionX #Unofficial #ROM #U #Camellia #Camellian 
+EvolutionX - UNOFFICIAL | Android 14 - EOL
+Released: 21/12/2023
+
+▪️ Download
+▪️ Support Group
+▪️ Flashing Guide
+▪️ Donation
+
+Changelog:
+• December Security Patch
+• Added Neural Network HAL
+• Increased performance & stability
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash from EvoX Recovery
+
+Thanks to:
+• @m929_official for the server
+• Testers
+
+By @rio113
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+103,2023-12-24T00:36:24,2023-12-24T03:39:23,Android,13.,13,"GApps, Vanilla, Official","https://sourceforge.net/projects/afterlife-projects/files/release/camellia/boot.img/download, https://sourceforge.net/projects/afterlife-projects/files/release/camellia/AfterLife-V4.0-Wrath-OFFICIAL-camellia-20231223-Gapps.zip/download, https://sourceforge.net/projects/afterlife-projects/files/release/camellia/AfterLife-V4.0-Wrath-OFFICIAL-camellia-20231223-Vanilla.zip/download",photos/photo_79@24-12-2023_00-36-24.jpg,,,,@AskneZZZ,"#Afterlife #Wrath #NeverDie #Official #ROM #T #Camellia #Camellian
+Afterlife v4.0 - Wrath - OFFICIAL | Android 13.
+Updated: 23/12/23
+
+▪️Download: Vanilla - Gapps - Boot
+▪️Screenshots
+▪️Support
+
+Changelog:
+• Added AOD
+• Added Gallery Manager
+• Added ViperFX
+• Increased performance & stability
+• Dropped blur support
+• Added new thermal profile
+
+Bugs: 
+• You tell me ;)
+
+Notes:
+• Flash with afterlife recovery
+
+Special thanks:
+• @rio113 For device tree
+• @noah_allen For everything
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+105,2023-12-26T20:46:25,2023-12-26T20:47:51,DerpFest,,14,"GApps, Unofficial, Official",https://sourceforge.net/projects/camellia-roms/files/DerpFest/,photos/photo_80@26-12-2023_20-46-25.jpg,,,,@ramshell688,"#DerpFest #Unofficial #ROM #U #Camellia #Camellian
+DerpFest Beta - UNOFFICIAL | Android 14
+Released: 26/12/2023
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Initial A14 build
+• December security patch
+• SELinux is Enforcing
+
+Bugs:
+• You tell me
+
+Notes:
+• Gapps build
+• Flash with DerpFest recovery
+• Clean flash mandatory
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007
+MT6833 Aliance
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+106,2023-12-27T14:46:42,2023-12-27T17:47:22,Crdroid,,14,"Unofficial, Official","https://mirror.jaimirrorbot.workers.dev/0:/crDroidAndroid-14.0-20231227-camellia-v10.0.zip, https://sourceforge.net/projects/camellia-build/files/crdroid/",photos/photo_81@27-12-2023_14-46-42.jpg,,,,@AskneZZZ,"#Crdroid #Unofficial #ROM #U #Camellia #Camellian
+Crdroid v10.0 - UNOFFICIAL | Android 14.
+Released: 27/12/23
+
+▪️Download | Mirror
+▪️Screenshots
+▪️Support
+
+Changelog:
+• Initial unofficial build with new maintainer
+• December security patch 
+• Added thermal profiles
+
+Notes:
+• Flash with crdroid recovery
+
+Special thanks:
+• @rio113 For device tree 
+• @noah_allen For everything
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+109,2024-01-04T00:56:48,2024-01-04T05:03:25,Android,13.,13,"GApps, Vanilla, Official","https://sourceforge.net/projects/afterlife-projects/files/release/camellia/AfterLife-V5.0-Lust-OFFICIAL-camellia-20240103-Vanilla.zip/download, https://sourceforge.net/projects/afterlife-projects/files/release/camellia/AfterLife-V5.0-Lust-OFFICIAL-camellia-20240103-Gapps.zip/download",photos/photo_82@04-01-2024_00-56-48.jpg,,,,@AskneZZZ,"#Afterlife #Lust #NeverDie #Official #ROM #T #Camellia #Camellian
+Afterlife v5.0 - Lust - OFFICIAL | Android 13.
+Updated: 03/01/24
+
+▪️Download: GAPPS - Vanilla
+▪️Screenshots
+▪️Support 
+
+Changelog:
+• December security patch 
+• Fixed VoLTE not working properly
+
+Notes:
+• Dirty flash from 4.0 it's fine
+• Flash with afterlife recovery
+• Gapps and vallina variant available
+
+Special thanks:
+• @rio113 For device tree 
+• @noah_allen For everything 
+• @ramshell688 For help and @VipulSharma_007 for test
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+110,2024-01-18T00:52:33,2024-01-18T00:55:24,CherishOS,,14,"GApps, Official",https://sourceforge.net/projects/camellia-roms/files/CherishOS/Cherish-OS-v5.2-20240114-0024-camellia-OFFICIAL-GApps.zip/download,photos/photo_83@18-01-2024_00-52-33.jpg,,,,@ramshell688,"#CherishOS #Official #ROM #U #Camellia #Camellian
+CherishOS v5.2 - OFFICIAL | Android 14
+Updated: 14/01/2024
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• January security patch
+• Add EngineerMode (Only Telephony work)
+• Fix Offline charging
+• Small change & stability
+
+Bugs:
+• You tell me
+
+Notes:
+• Gapps build
+• Flash with Cherish recovery
+• SELinux is Enforcing
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007
+MT6833 Aliance
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+112,2024-01-20T15:54:08,2024-01-20T15:54:27,DerpFest,,14,"GApps, Unofficial, Official","https://sourceforge.net/projects/camellia-roms/files/DerpFest/, https://mega.nz/file/tM8AjSoR#d5v3PzO45kN73jQQiKU3qSbqK90VEiLnYMlFzYS1jsY",photos/photo_84@20-01-2024_15-54-08.jpg,,,,@ramshell688,"#DerpFest #Unofficial #ROM #U #Camellia #Camellian
+DerpFest Beta - UNOFFICIAL | Android 14
+Released: 19/01/2024
+
+▪️Download | Mirror
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• January security patch
+• Add EngineerMode (Only Telephony work)
+• Fix Offline charging
+• Fix VoLTE not working properly
+• Improve smoothness
+
+Bugs:
+• You tell me
+
+Notes:
+• Gapps build
+• Flash with DerpFest recovery
+• SELinux is Enforcing
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007
+MT6833 Aliance
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+113,2024-01-28T00:03:25,2024-01-28T00:16:18,HyperOS,,14,Official,"https://sourceforge.net/projects/camellia-build/files/hyperOS/camellia_global_images_OS1.0.2.0.UCVMIXM_A14.zip/download, https://drive.google.com/file/d/1XX6R4KTPLjOrbC7rA9Ibgp635P6gVBtA/view?usp=sharing",photos/photo_85@28-01-2024_00-03-25.jpg,,,,@AskneZZZ,"#HyperOS #Global #Port #U #Camellia #Camellian
+HyperOS - Port - 1.0.2.0.UCVMIXM | Android 14
+Released: 27/01/24
+
+▪️Download | Mirror [4.4GB]
+▪️Changelog
+▪️Screenshots
+▪️Support
+▪️Credits
+
+Bugs:
+• NFC in camellian variant
+• You tell me :D
+
+Notes:
+• This is a fastboot package
+• Clean flash is mandatory in this first version
+• Selinux is enforcing
+• If there is a message contacting ur manufacturer just ignore it 
+• Dev options are crashing, for fix switch to permissive using termux and root
+• Does not include camera (use this)
+• Work for camellian and camellia 
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+114,2024-01-28T08:02:06,2024-01-28T08:02:28,Android,13,13,"Vanilla, Unofficial, Official",https://mega.nz/folder/UygTEYqb#q9bZL_1hCHTMtqKwVQj2Xw,photos/photo_86@28-01-2024_08-02-06.jpg,,,,@m929_official,"#AICP #Unofficial #ROM #T #Camellia #Camellian 
+AICP 18.0 - UNOFFICIAL | Android 13
+Released: 28.01.2024
+
+▪️ Download
+▪️ Support Group 
+▪️ Flashing Guide
+
+Changelog:
+• Initial release (and last)
+
+Bugs:
+• Let me know, if you found
+
+Notes:
+• Flash from AICP recovery
+• SeLinux is Enforcing
+• Vanilla build
+
+Special thanks:
+@rio113 for device tree
+MT6833 Aliance
+
+By @m929_official
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+115,2024-01-28T19:26:39,2024-01-28T19:27:18,LineageOS,,13,"GApps, Vanilla, Unofficial, Official","https://m929.ru/files/camellia-gapps/lineage-20.0-20240128-UNOFFICIAL-camellia-gapps.zip, https://m929.ru/files/camellia/lineage-20.0-20240128-UNOFFICIAL-camellia.zip, https://m929.ru/files/camellia/boot.img",photos/photo_87@28-01-2024_19-26-39.jpg,,,,@m929_official,"#LineageOS #Unofficial #ROM #T #Camellia #Camellian 
+LineageOS 20.0 - UNOFFICIAL | Android 13
+Released: 28/01/2024
+
+▪️ Download vanilla 
+▪️ Download GAPPS build
+▪️ Download boot.img
+▪️ Support Group 
+▪️ Flashing Guide
+
+Changelog:
+• January 2024 security patch
+
+Bugs:
+• Let me know, if you found
+
+Notes:
+• Flash from LineageOS recovery
+• SeLinux is Enforcing
+
+Special thanks:
+@rio113 for device tree
+@noah_allen for consultation
+MT6833 Aliance
+
+By @m929_official
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+116,2024-02-06T22:12:02,2024-02-17T16:48:22,Android,14.,14,Official,"https://projectelixiros.com/download, https://github.com/ProjectElixir-Devices/Changelogs/blob/UNO/camellia.md",photos/photo_88@06-02-2024_22-12-02.jpg,,,,@AskneZZZ,"#ProjectElixir #Official #ROM #U #Camellia #Camellian
+ProjectElixir v4.0 - OFFICIAL | Android 14.
+Released:06/02/24
+
+▪️Download
+▪️Screenshot
+▪️Changelog
+▪️XDA
+▪️Support
+
+Bugs:
+• None :D (If you find one, let me know with the respective logs)
+
+Notes:
+• Initial build
+• Flash with Elixir recovery
+• Clean flash is mandatory from a13
+• Selinux is enforcing
+
+Special thanks:
+• @aayush_2627 And @VipulSharma_007 For Testing
+• @rio113 for Device Tree
+• @noah_allen For Support
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+117,2024-02-07T20:21:34,2024-02-07T20:21:48,Android,14.,14,"Unofficial, Official",https://github.com/Noah113-Allen/OTA/releases/tag/9.0,photos/photo_89@07-02-2024_20-21-34.jpg,,,,@AskneZZZ,"#EvolutionX #Balut #Unofficial #ROM #U #Camellia #Camellian
+Evolution X - UNOFFICIAL | Android 14.
+Updated:07/02/24
+
+▪️Download
+▪️Screenshot
+▪️Support
+
+Changelog:
+• February Security patch
+• Updated IMS blobs from Plato
+• Added VoNR support
+
+Notes:
+• Flash with evox recovery
+
+Special thanks:
+• @rio113 For everything
+• @noah_allen For help
+• @aayush_2627 For test
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+118,2024-02-08T14:57:42,2024-02-08T14:57:58,SuperiorOS,,14,"GApps, Official","https://github.com/kssrao13882/Changelog/blob/main/source.md, https://sourceforge.net/projects/camellia-roms/files/SuperiorExtended/A14/",photos/photo_90@08-02-2024_14-57-42.jpg,,,,@ramshell688,"#SuperiorOSExtended #Official #ROM #U #Camellia #Camellian
+SuperiorOS Extended | Android 14
+Updated: 07/02/2024
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Sync with latest source
+• Initial A14 build
+• February security patch 
+• Source.
+
+Notes:
+• Gapps build
+• SELinux is Enforcing
+• Clean flash recommended from A13
+
+Special thanks
+@Rio113 for base tree
+@VipulSharma_007
+MT6833 Alliance
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+119,2024-02-08T22:11:17,2024-02-09T00:45:32,HyperOS,,14,Official,https://sourceforge.net/projects/camellia-build/files/hyperOS/camellia_eea_OS1.0.1.0.ULUEUXM_A14.zip/download,photos/photo_91@08-02-2024_22-11-17.jpg,,,,@AskneZZZ,"#HyperOS #OEM #EEA #Port #U #Camellia #Camellian
+HyperOS - EEA | Android 14.
+Updated:08/02/24
+Version:OS 1.0.1.0.ULUEUXM
+
+▪️Download [4,7GB]
+▪️Changelog
+▪️Credits
+▪️Screenshot
+▪️Support
+
+Bugs: 
+• NFC in camellian variant
+
+Notes:
+• Fastboot flashable, double click in the respective script
+• Miui Camera included
+• Clean flash is mandatory
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+120,2024-02-14T00:41:21,2024-02-14T01:59:01,Android,13.,13,"GApps, Vanilla, Official","https://sourceforge.net/projects/afterlife-projects/files/release/camellia/boot.img/download, https://sourceforge.net/projects/afterlife-projects/files/release/camellia/AfterLife-V6.0-Greedy-OFFICIAL-camellia-20240213-Gapps.zip/download, https://sourceforge.net/projects/afterlife-projects/files/release/camellia/AfterLife-V6.0-Greedy-OFFICIAL-camellia-20240213-Vanilla.zip/download",photos/photo_92@14-02-2024_00-41-21.jpg,,,,@AskneZZZ,"#Afterlife #Greedy #NeverDie #Official #ROM #T #Camellia #Camellian
+Afterlife v6.0 - Greedy - OFFICIAL | Android 13.
+Updated:13/02/24
+
+▪️Download: GAPPS - Vanilla - Boot
+▪️Screenshots
+▪️Source Changelog
+▪️Support
+
+Changelog:
+• February security patch 
+• Performance improvents
+• Updated v4a drivers
+• Updated ViperFX app
+• Added blur support (u can disable in display settings)
+
+
+Notes:
+• Dirty flash from 4.0/5.0 it's fine
+• Flash with afterlife recovery
+• Gapps and vanilla variant available
+
+Special thanks:
+• @rio113 For device tree 
+• @noah_allen For everything 
+• @fnayush for test
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+121,2024-02-17T17:24:07,2024-02-17T17:24:25,AlphaDroid,,14,"GApps, Vanilla, Official","https://sourceforge.net/projects/alphadroid-project/files/camellia/AlphaDroid-13.0-20231008-camellia-gapps-v1.10.zip/download, https://sourceforge.net/projects/alphadroid-project/files/camellia/AlphaDroid-14.0-20240217-camellia-vanilla-v2.0.zip/download, https://sourceforge.net/projects/alphadroid-project/files/camellia/AlphaDroid-14.0-20240217-camellia-gapps-v2.0.zip/download, https://sourceforge.net/projects/alphadroid-project/files/camellia/boot.img/download",photos/photo_93@17-02-2024_17-24-07.jpg,,,,@NaokoShoto,"#AlphaDroid #Official #ROM #Android #U #Camellia #Camellian
+
+AlphaDroid 2.0 - OFFICIAL | Android 14
+Updated: 17/02/2024
+
+▪️ Download - GApps | Vanilla | boot.img
+▪️ Source Changelog
+▪️️ Device Changelog
+▪️ Flashing Steps
+▪️️ Device Support Group 
+▪️️ Donate
+
+Notes: 
+• Initial A14 Builds, Clean Flash Mandatory
+• Required firmware: MIUI 14 
+
+Credits :
+• Thanks to @Rio113 for device tree
+• Thanks to MT6833 Alliance Team especially @noah_allen for helping
+
+By @NaokoShoto
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+122,2024-02-20T07:50:41,2024-02-20T08:12:05,CherishOS,,14,"GApps, Official",https://www.pling.com/p/2061698/,photos/photo_94@20-02-2024_07-50-41.jpg,,,,@ramshell688,"#CherishOS #Official #ROM #U #Camellia #Camellian
+CherishOS v5.3 - OFFICIAL | Android 14
+Updated: 19/02/2024
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• February security patch
+• Import VoNR support
+• Switch to qti vibrator
+• Small change & stability
+
+Bugs:
+• You tell me
+
+Notes:
+• Gapps build with OTA push
+• SELinux is Enforcing
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007
+MT6833 Aliance
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+123,2024-02-22T11:08:13,2025-01-12T18:20:07,Android,12.,12,"GApps, Unofficial, Official",,photos/photo_95@22-02-2024_11-08-13.jpg,,,,@MahonMo,"#MIUI #Unofficial #MIUIEnhanced #CN #S #Camellia #Camellian
+MIUI 13 Enhanced for Camellia/Camellian | Android 12.
+Released: 23/02/24
+Version: MIUI CN 13.0.9 SKSCNXM
+
+▪️Download (2.5 GB)
+▪️Screenshots
+▪️Installation Guide
+▪️Learn More - What is this?
+▪️Credits
+
+Bugs:
+• Only 3 Button Navigation working in POCO Varient
+• Swipe gestures does not work on POCO
+
+Notes:
+• NFC working in Camellian
+• No Gapps, need to install this module with magisk
+• Clean flash from any rom is mandatory
+• The rom should be installed from Fastboot, read the guide before installing.
+• System is RW
+• ROM Security Patch: Nov 2022
+
+By @MahonMo
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+124,2024-02-24T12:39:01,2024-02-24T12:39:19,Android,14.,14,Official,"https://projectelixiros.com/download, https://github.com/ProjectElixir-Devices/Changelogs/blob/UNO/camellia.md",photos/photo_96@24-02-2024_12-39-01.jpg,Device | Source,,,@AskneZZZ,"#ProjectElixir #Official #ROM #U #Camellia #Camellian
+ProjectElixir v4.1 - OFFICIAL | Android 14.
+Released:24/02/24
+
+▪️Download
+▪️Screenshot
+▪️Changelog: Device | Source
+▪️XDA
+▪️Support
+
+Bugs:
+• None :D (If you find one, let me know with the respective logs)
+
+Notes:
+• Flash with Elixir recovery
+• Clean flash is mandatory from a13
+• Selinux is enforcing
+
+Special thanks:
+• @fnayush For Testing
+• @rio113 For Device Tree
+• @ramshell688 And @noah_allen For Support
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+125,2024-02-25T08:37:40,2024-02-25T08:40:31,Android,13.,13,"GApps, Vanilla, Official","https://sourceforge.net/projects/afterlife-projects/files/release/camellia/AfterLife-V6.0-Greedy-OFFICIAL-camellia-20240225-Vanilla.zip/download, https://sourceforge.net/projects/afterlife-projects/files/release/camellia/AfterLife-V6.0-Greedy-OFFICIAL-camellia-20240225-Gapps.zip/download, https://sourceforge.net/projects/afterlife-projects/files/release/camellia/boot.img/download",photos/photo_97@25-02-2024_08-37-40.jpg,,,,@AskneZZZ,"#Afterlife #Greedy #NeverDie #Official #ROM #T #Camellia #Camellian
+Afterlife v6.0 - Greedy - OFFICIAL | Android 13.
+Updated:25/02/24
+
+▪️Download: GAPPS - Vanilla - Boot
+▪️Screenshots
+▪️Source Changelog
+▪️Support
+
+Changelog: 
+• Performance improvents
+• Switched to QTI vibrator
+
+Notes:
+• Dirty flash from it's fine from previous version 
+• Flash with afterlife recovery
+• Gapps and vanilla variant available
+
+Special thanks:
+• @rio113 For device tree 
+• @radinkaelw For support and server
+• @ramshell688 For support
+• @fnayush For test
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+126,2024-02-25T21:31:30,2024-02-25T21:34:40,Android,13.,13,"GApps, Unofficial, Official",https://sourceforge.net/projects/miui-enhanced/files/camellia/14.0.4ID/MIUI14E_ID-Global_camellia_enhancedOS_fastboot_14.0.4.0.rar/download,photos/photo_98@25-02-2024_21-31-30.jpg,,,,@MahonMo,"#MIUI #Unofficial #MIUIEnhanced #CN #T #Camellia #Camellian
+MIUI 14 Enhanced for Camellia/Camellian | Android 13.
+Released: 23/02/25
+Based on: MIUI 14.0.4 Indonesia Global
+
+▪️Download (2.5 GB)
+▪️Screenshots
+▪️Installation Guide
+▪️Learn More - What is this?
+▪️Support Channel
+▪️Credits
+
+Bugs:
+• Gesture Navigation doesn't work on POCO Varient. Buttons Navigation only.
+
+Notes:
+• NFC working in Camellian
+• GApps available but Google Play Store needs to be installed with this module.
+• Clean flash from any rom is mandatory
+• The rom should be installed from Fastboot, read the guide before installing.
+• System is RO
+• ROM Security Patch: April 2023
+
+By @MahonMo
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+127,2024-02-25T23:14:42,2024-02-26T02:30:21,MemeOS,,13,Official,https://sourceforge.net/projects/camellia-build/files/memeOS/MemeOS1.0-Camellia.zip/download,photos/photo_99@25-02-2024_23-14-42.jpg,,,,@AskneZZZ,"#MemeOS #MIUI #MOD #Port #T #Camellia #Camellian
+MemeOS v1.0 - MOD | Android 13.
+Released:25/02/24
+
+▪️Download [4.9GB]
+▪️MemeChangelog
+▪️Screenshots
+▪️Support
+
+Device changelog:
+• Switched To Global Vendor
+• Updated Fw From v14.0.6.TKSMIXM
+• Added Miui Camera From v14.0.6.TKSMIXM
+• Fixed NFC For Camellian Variant
+
+Bugs:
+• You tell me :)
+
+Notes:
+• Fastboot package, flash running WindowsFastboot.bat or Unix if you have linux
+• Ported from rosemary
+• Clean flash is mandatory
+
+Credits:
+• @fahimfaisaladitto For Everything
+• @kakashi1v1 And @TheAngelM23 For Support
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+128,2024-02-28T17:36:26,2024-03-04T17:51:17,LineageOS,,13,"Vanilla, Unofficial, Official",https://drive.google.com/drive/folders/182xz8sQRTJ7EOtLEuUMxId0u-R2zK3Hk?usp=drive_link,photos/photo_100@28-02-2024_17-36-26.jpg,,,,@zs44pk,"#LineageOS-PVT #Unofficial #ROM #T #Camellia #Camellian 
+LineageOS-PVT 20.0 - UNOFFICIAL | Android 13
+Released: 28/02/2024
+
+▪️ Download
+▪️ Screenshots
+▪️ Support Group 
+▪️ Flashing Guide
+
+Changelog:
+• February 2024 security patch
+
+Bugs:
+• Let me know, if you found
+
+Notes:
+• Vanilla Build
+• Flash from LineageOS recovery
+• Clean Flash Recommended 
+
+Special thanks:
+@rio113 for device tree
+@noah_allen for help
+@swapnilvicky For Modded Lineage source
+
+By @zs44pk
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+129,2024-02-28T21:08:26,2024-02-29T23:54:43,Crdroid,,14,"GApps, Vanilla, Unofficial, Official","https://sourceforge.net/projects/camellia-build/files/crdroid/crDroidAndroid-14.0-20240228-camellia-v10.2.zip/download, https://sourceforge.net/projects/camellia-build/files/crdroid/boot.img/download",photos/photo_101@28-02-2024_21-08-26.jpg,,,,@AskneZZZ,"#Crdroid #Unofficial #ROM #U #Camellia #Camellian
+Crdroid v10.2 - UNOFFICIAL | Android 14.
+Released:28/02/24
+
+▪️Download: BOOT - ROM
+▪️Screenshots
+▪️Support
+▪️XDA
+
+Changelog:
+• Feb security patch
+• Performance improvement 
+• Added VoNR support
+• Updated IMS blobs from Plato
+• Added engineering mode
+
+Notes:
+• Flash with crdroid recovery
+• Vanilla only (I suggest use nikgapps)
+
+Special thanks:
+• @rio113 For device tree 
+• @noah_allen For everything
+• @PAIN7177 For test
+• @ramshell688 For support
+• @radinkaelw For server
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+132,2024-03-05T17:25:35,2024-03-05T17:35:15,Android,13.,13,"Unofficial, Official",https://sourceforge.net/projects/miui-enhanced/files/camellia/MIUIEPRO/V1.0-14.0.4/camellia_enhancedos_MIUIEnhanced-Pro_14.0.4IDGlobal.rar/download,photos/photo_102@05-03-2024_17-25-35.jpg,,,,@MahonMo,"#MIUI #Unofficial #MIUIEnhanced #MIUIEPro #CN #T #Camellia #Camellian
+MIUI Enhanced Pro 14 for Camellia/Camellian | Android 13.
+Released: 23/02/25
+
+▪️Download (2.5 GB)
+▪️Screenshots
+▪️Installation Guide
+▪️What is special about this?
+▪️Support Channel
+
+Special thanks to:
+@zGonzah for letting me use his modded Launcher on my build, helping me mod the apps and much more.
+@AskneZZZ for letting me use his installer script
+
+Notes:
+• Everything is working
+• Modded launcher and Gesture Navigation working on POCO
+• You can dirty flash if you are on MIUI14E (older version). Dirty Flash from any other rom causes it to not boot.
+• The rom should be installed from Fastboot, read the guide before installing.
+
+By @MahonMo
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+133,2024-03-05T19:15:11,2024-03-05T19:15:42,Crdroid,,14,"GApps, Vanilla, Official",https://sourceforge.net/projects/crdroid/files/camellia/10.x/crDroidAndroid-14.0-20240303-camellia-v10.2.zip/download,photos/photo_103@05-03-2024_19-15-11.jpg,,,,@AskneZZZ,"#Crdroid #Official #ROM #U #Camellia #Camellian
+Crdroid v10.2 - OFFICIAL | Android 14.
+Released:05/03/24
+
+▪️Download
+▪️Screenshots
+▪️Support
+▪️XDA
+
+Changelog:
+• Initial official build
+• OTA support 
+• Added ViperFX
+
+Notes:
+• Flash with crdroid recovery
+• Vanilla only (I suggest use nikgapps)
+
+Special thanks:
+• @rio113 For device tree 
+• @noah_allen For everything
+• @PAIN7177 For test
+• @ramshell688 For support
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+134,2024-03-05T20:06:02,2024-03-05T20:08:16,ArrowOS,,13,"GApps, Vanilla, Unofficial, Official",https://sourceforge.net/projects/garudayard/files/Arrow-Camellia-05-03-2024/,photos/photo_104@05-03-2024_20-06-02.jpg,,,,@zs44pk,"#Arrow #UNOFFICIAL #ROM #T #Camellia #Camellian
+ArrowOS - UNOFFICIAL | Android 13.0
+Released: 05/03/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• February security patch
+• Latest synced source
+
+Notes:
+• Flash with Arrow recovery 
+• Gapps and Vanilla both Included
+• NiksGapps Recommend
+
+Bugs:
+• You tell me :)
+
+Special thanks to:
+• @noah_allen For everything
+• @rio113 For device tree
+
+By @zs44pk
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+136,2024-03-08T12:59:58,2024-03-08T19:05:47,Android,14,14,"GApps, Vanilla, Unofficial, Official",,photos/photo_105@08-03-2024_12-59-58.jpg,,,,@fars_dev,"#ProjectBlaze #Unofficial #ROM #U #Camellia #Camellian
+Project Blaze v3.1 - UNOFFICIAL | Android 14
+Released: 04/03/2024
+
+▪️Download ROM - BOOT
+▪️Flashing Guide
+▪️Screenshots
+▪️Support
+
+Changelog:
+• Initial Release
+• Febuary 2024 Security Patch
+
+Bugs:
+• You tell me ;)
+
+Notes:
+• Flash From Blaze Recovery
+• Clean Flash is Required 
+• The Rom is vanilla, No gapps
+
+Special thanks:
+• @rio113 For device tree 
+• @AskneZZZ For most help
+• Mt6833 Alliance For help
+• @naokoshoto For help
+• @radinkaelw For help
+
+By @fars_dev
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+137,2024-03-08T18:07:04,2024-03-08T19:05:23,GenesisOS,,14,"Unofficial, Official",,photos/photo_106@08-03-2024_18-07-04.jpg,,,,@fars_dev,"#GenesisOS #Utopia #Unofficial #ROM #U #Camellia #Camellian
+Genesis OS 1.0 - UNOFFICIAL | Android 14
+Released: 07/03/2024
+
+▪️Download ROM - BOOT
+▪️Flashing Guide
+▪️Screenshots
+▪️Support
+
+Changelog:
+• Fixed Brightness issue
+• Feb 2024 Security Patch
+
+Bugs:
+• Offline Charging
+• Fingerprint for some devices (fixed in next release)
+
+Notes:
+• Flash From Genesis Recovery
+• You can dirty flash from old release
+
+Special thanks
+• @rio113 For device tree 
+• @AskneZZZ For help
+• @noah_allen For help
+
+By @fars_dev
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+139,2024-03-11T01:50:11,2024-03-11T01:50:22,Android,14.,14,"Unofficial, Official",,photos/photo_107@11-03-2024_01-50-11.jpg,,,,@fars_dev,"#EvolutionX #Balut #Unofficial #ROM #U #Camellia #Camellian
+Evolution X 8.3 - UNOFFICIAL | Android 14.
+Updated:11/03/24
+
+▪️Download ROM - BOOT
+▪️Screenshots
+▪️Support
+
+Changelog:
+• February Security patch
+• Fixed fingerprint
+• Added VoNR support
+
+Notes:
+• Flash with evo x recovery
+• Clean Flash is Needed
+• ViperFX Included 
+
+Special thanks:
+• @rio113 For everything
+
+By @fars_dev
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+140,2024-03-16T17:12:56,2024-03-16T17:13:16,LineageOS,,13,"Unofficial, Official","https://m929.ru/roms/lineage-20-camellia-20240316.html, https://mega.nz/folder/w7YCTSRb#5wO0iGIepPY_KVIWkPdngA",photos/photo_108@16-03-2024_17-12-56.jpg,,,,@m929_official,"#LineageOS #Unofficial #ROM #T #Camellia #Camellian 
+LineageOS 20.0 - UNOFFICIAL | Android 13
+Released: 16/03/2024
+
+▪️ Download from my site
+▪️ Download from mega.nz
+▪️ Support Group 
+▪️ Flashing Guide
+
+Changelog:
+• February 2024 security patch
+
+Bugs:
+• Let me know, if you found
+
+Notes:
+• Flash from LineageOS recovery
+• SeLinux is Enforcing
+
+Special thanks:
+@rio113 for device tree
+@noah_allen for consultation
+MT6833 Aliance
+
+By @m929_official
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+141,2024-03-17T07:40:54,2024-03-17T09:29:53,HyperOS,,14,"Unofficial, Official",https://sourceforge.net/projects/miui-enhanced/files/camellia/HYPEREPRO/V1.0/1/camellia_HyperEPro1.0Ported_eea_fastboot_images_1.0.1.0ULUEUXM.rar/download,photos/photo_109@17-03-2024_07-40-54.jpg,,,,@MahonMo,"#HyperOS #Unofficial #MIUIEnhanced #HyperOSEnhanced #HyperEPro #CN #U #Camellia #Camellian
+HyperOS Enhanced Pro for Camellia/Camellian | Android 14.
+Released: 23/03/17
+
+▪️Download (2.4 GB)
+▪️Screenshots
+▪️Installation Guide
+▪️What is special about this?
+▪️Support Channel
+
+Special thanks to:
+@zGonzah for letting me use his modded Launcher on my build, helping me mod the apps and much more.
+@AskneZZZ for porting HyperOS to Camellia and letting me use his installer script
+
+Bugs:
+• NFC doesn't work on Camellian (port bug)
+• FP Scanner might act like PageUp button on some devices (port bug)
+• Contacts app might not work correctly. Install Simple Contacts : https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/
+
+Notes:
+• Everything is working
+• Modded launcher and Gesture Navigation working on POCO
+• Dirty Flash not allowed from any ROM.
+• The rom should be installed from Fastboot, read the guide before installing.
+
+By @MahonMo
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+142,2024-03-23T18:43:41,2024-03-23T20:09:33,LineageOS,,13,"Vanilla, Unofficial, Official",https://sourceforge.net/projects/garudayard/files/camellia/los-pvt/,photos/photo_110@23-03-2024_18-43-41.jpg,,,,@zs44pk,"#LineageOS-PVT #Unofficial #ROM #T #Camellia #Camellian 
+LineageOS-PVT 20.0 - UNOFFICIAL | Android 13
+Released: 23/03/2024
+
+▪️ Download vanilla 
+▪️ Screenshots
+▪️ Support Group 
+▪️ Flashing Guide
+
+Changelog:
+• March 2024 security patch
+• Fixed Video Leg on YouTube
+• Enabled Peak - Min Refresh Rate Settings 
+
+Source Changelog:
+Click
+
+Bugs:
+• Let me know, if you found
+
+Notes:
+• Vanilla Build
+• Flash from LineageOS recovery
+• Clean Flash Recommended 
+
+Special thanks:
+@rio113 for device tree
+MT6833 Alliance for support 
+@swapnilvicky For Modded Lineage source
+
+By @zs44pk
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+143,2024-03-25T18:07:33,2024-03-25T18:29:23,aos,,,"Unofficial, Official",https://sourceforge.net/projects/camellia-build/files/twrp/Twrp_3.7.1_12-Camellia-Unofficial.img/download,photos/photo_111@25-03-2024_18-07-33.jpg,,,,@AskneZZZ,"#TWRP #Unofficial #Recovery #Camellia #Camellian
+TWRP Recovery - UNOFFICIAL
+Released:25/03/24
+
+▪️Download
+▪️Screenshot 
+▪️Flashing Guide
+▪️Support
+
+Changelog:
+• Initial build
+
+Bugs:
+• NVT touch
+
+Notes:
+• Works for a12, a13, a14 aosp and MIUI
+• When you flash a ROM don't forget to check the reflash TWRP option so that the TWRP is not replaced
+• Don't flash on MIUI 12
+• You can use mouse with otg 
+
+Special thanks:
+• @winclippy For banner
+• @radinkaelw For server
+• @noah_allen, @rio113, @ziad_tamer_a, @Sushrut1101 For support
+Everyone who helped me
+All testers 
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+144,2024-03-25T23:31:33,2024-03-25T23:31:52,aos,,,"Unofficial, Official",https://sourceforge.net/projects/camellia-build/files/ofox/,photos/photo_112@25-03-2024_23-31-33.jpg,,,,@AskneZZZ,"#Ofox #Unofficial #Recovery #R12.1 #Camellia #Camellian
+OrangeFox R12.1 - UNOFFICIAL
+Released:25/03/24
+
+▪️Download
+▪️Screenshot 
+▪️Flashing Guide
+▪️Support
+
+Changelog:
+• Initial build
+
+Bugs:
+• NVT touch
+
+Notes:
+• Works for a12, a13, a14 aosp and MIUI
+• When you flash a ROM don't forget to check the reflash ofox option so that the ofox is not replaced
+• Don't flash on MIUI 12
+• You can flash the zip with aosp recovery or twrp
+
+Special thanks:
+• @radinkaelw For server
+• @noah_allen, @rio113, @ziad_tamer_a, @Sushrut1101 For support
+Everyone who helped me
+All testers 
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+145,2024-03-27T00:03:40,2024-03-27T18:32:49,HyperOS,,14,Official,"https://sourceforge.net/projects/camellia-build/files/hotfix/HyperOS1.0.1.0.UNQEUXM-Hotfix_camellia.zip/download, https://drive.google.com/file/d/1t8JfG9q8jH_01FZUGr1KwLPBQOTTFESo/view?usp=sharing",photos/photo_113@27-03-2024_00-03-40.jpg,,,,@AskneZZZ,"#HyperOS #EEA #Hotfix #Port #U #Camellia #Camellian
+HyperOS1.0.1.0.UNQEUXM | Android 14.
+Released:26/01/24
+
+▪️Download | Mirror [4.7GB]
+▪️Screenshots
+▪️Support
+
+Changelog:
+• Fixed the fp works as a button 
+• Added new hyperOS logo
+• Added Squiggly Media Line
+• Fixed NFC
+• Fixed Automatic brightness
+• Switched to Gold Base
+• Added launcher mod
+• Removed Poco launcher
+• Added new bootanimation
+• Added Hyper dialer/message
+• Added magazines
+• Added security center mod
+• Added theme manager mod
+• Fixed theme reset
+• Added New Package installer UI
+
+Bugs:
+• You tell me :D
+
+Notes:
+• Fastboot package
+• Clean flash is mandatory
+• Selinux is enforcing
+• Work for camellian and camellia
+• MIUI camera included
+• Flash this for fix dialer, messages and contact 
+
+Special thanks:
+Porter Union
+MTK Porting team
+MT6833 Alliance
+• @naokoshoto, @MSPowerPoint2008,  @nokiplays, @CJ1VS1, @zGonzah For help
+• @kakashi1v1, @NEESCHAL_3 For help and mods
+• @iron5yd For test
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+146,2024-03-30T16:52:21,2024-03-30T16:52:59,Android,,14,,,,,,,,"IMPORTANT ANNOUNCEMENT
+
+Camellia/Camellian except RN11SE is nearing EOL. This means no updates at all from Xiaomi after April. 
+Our kernel is still 4.14 and Android has discontinued support for this version. WE NEED YOU to spam MI Open Source repository issues sections with RESPECTFUL requests to either update the kernel or fix the source. IT SHOULD BE RESPECTFUL AND CAN BE DONE IN BOTH CHINESE AND ENGLISH.
+This is our last chance for further development for this device, we want all of you do it if you want further development for camellia.
+Android 14 QPR2 already doesn't boot on Kernel 4.14.
+
+https://github.com/MiCode/Xiaomi_Kernel_OpenSource"
+147,2024-03-31T01:32:23,2024-03-31T01:33:30,HyperOS,,,"Unofficial, Official",https://sourceforge.net/projects/camellia-build/files/twrp/TWRP_3.7.1_12-Camellia.img/download,photos/photo_114@31-03-2024_01-32-23.jpg,,,,@AskneZZZ,"#TWRP #Unofficial #Recovery #Camellia #Camellian
+TWRP Recovery - UNOFFICIAL
+Released:30/03/24
+
+▪️Download
+▪️Screenshot 
+▪️Flashing Guide
+▪️Support
+
+Changelog:
+• Fixed ROMs flashing
+• Fixed NFC not working for MIUI/HyperOS
+• Added mi_ext partition support
+• Define boot control correctly and update to 1.2
+• Define mtk plpath utils
+• Inherit project quotas
+• Use developer-gsi keys
+
+Bugs:
+• NVT touch
+
+Notes:
+• Works for a12 or higher
+• When you flash a ROM don't forget to click in ""reflash TWRP after flashing a ROM""
+• Don't flash on MIUI 12 or 12.5
+
+Special thanks:
+• @winclippy For banner
+• @radinkaelw For server
+• @NeverSettleF For test
+• @noah_allen, @rio113, @ziad_tamer_a, @Sushrut1101 For support and everyone who helped me
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+148,2024-03-31T02:44:15,2024-04-02T05:09:31,HyperOS,,14,Official,https://devuploads.com/9noodxiitjq8,photos/photo_115@31-03-2024_02-44-15.jpg,,,,@fars_dev,"#HyperOS #Official #PORT #U #Camellia #Camellian #Speed
+HyperOS Speed - OFFICIAL | Android 14.
+Updated:31/03/24
+
+▪️Download | Mirror
+▪️Learn More, what is this ROM?
+▪️Support
+▪️Screenshots 
+
+Changelog:
+• It gives better performance than any hyper os for this device
+• it has a lot of mods
+
+Notes:
+• Flash in fastboot
+• Clean Flash is Needed
+• Changelog is big, check the know more section 
+•Pre-Rooted
+
+Special thanks:
+•@AskneZZZ for help and making the port
+• Thanks to @kakashi1v1 and @devilnoobin for the mods 
+• @MahonMo for help
+• @zGonzah for help
+
+By @fars_dev
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+151,2024-04-01T03:32:23,2024-04-01T03:32:40,Micros,,,Official,https://bit.ly/3sFKk7j,photos/photo_116@01-04-2024_03-32-23.jpg,,,,@AskneZZZ,"#WindowsPhone #Microsoft #Port #Camellia #Camellian
+Windows Phone | Windows 11 Mobile OS.
+Release:01/04/'24
+
+▪️Download
+
+Changelog:
+• Initial Release
+• Ported From Microsoft surface
+
+Bugs: 
+• You tell me
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+152,2024-04-03T03:07:25,2024-04-03T03:07:45,Android,12.1,12,Official,https://drive.google.com/file/d/1tok2TA1ETZ6Ry_Mhne5oxcuNAT5O2nub/view?usp=drive_link,photos/photo_117@03-04-2024_03-07-25.jpg,,,,,"#TGRP #official #recovery #12.1 #camellia #camellian
+TGRP v1.0_3.7.1 - OFFICIAL | Android 12.1+
+Released:30/03/24
+
+▪️Download
+▪️Support
+▪️Flashing guide
+▪️Screenshots
+
+Changelog:
+• add new cursor and ui
+• add new splash
+
+Special thanks:
+• @Asknezz for original TWRP build
+---------------------------------
+• @radinkaelw For server
+• @noah_allen, @rio113, @ziad_tamer_a, @Sushrut1101 For support
+
+By @winclippy, @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+153,2024-04-11T19:45:52,2025-01-03T13:30:54,aos,,,"Unofficial, Official",https://sourceforge.net/projects/camellia-build/files/twrp/Twrp_3.7.1-Camellia.img/download,photos/photo_118@11-04-2024_19-45-52.jpg,,,,@AskneZZZ,"#TWRP #Unofficial #Recovery #Camellia #Camellian
+TWRP Recovery - UNOFFICIAL
+Released:11/04/24
+
+▪️Download
+▪️Screenshot 
+▪️Flashing Guide
+▪️Support
+
+Changelog:
+• Added vibrator hal from aosp
+• Improvements
+
+Bugs:
+• NVT touch
+
+Notes:
+• Works for a12 or higher
+• When you flash a ROM don't forget to click in ""reflash TWRP after flashing a ROM""
+• Don't flash on MIUI 12 or 12.5
+
+Special thanks:
+• @winclippy For banner
+• @radinkaelw For server
+• @NeverSettleF For test
+• @noah_allen, @rio113, @ziad_tamer_a, @Sushrut1101 For support and everyone who helped me
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+154,2024-04-13T16:10:32,2024-04-13T16:33:56,HyperOS,,14,Official,"https://drive.google.com/uc?id=1GioGNbK7v6k1ri_E-hdavknn1CDjQtb1&export=download, https://sourceforge.net/projects/camellia-build/files/hyperOS/HyperOS1.0.1.0.ULHCNXM_CAMELLLIA_N_IMAGES.zip/download",photos/photo_119@13-04-2024_16-10-32.jpg,,,,typing Google in getApps,"#HyperOS #CN #Port #U #Camellia #Camellian
+HyperOS 1.0.1.0.ULHCNXM | Android 14.
+Ported From:Pearl (Redmi Note 12T Pro)
+Released:13/04/24
+
+▪️Download | Mirror [5.1GB]
+▪️Screenshots
+▪️Donate
+▪️Support
+
+Changelog:
+• Added new kashi's hyper launcher with Google features 
+• Added app vault mod
+• Added eu device info
+• Added peridot wallpaper as default
+
+Bugs:
+• NFC
+
+Notes:
+• Enable Basic Google services in settings>additional settings>account & sync>Basic Google services fter that install the play store, you can find it by typing Google in getApps
+• Multilanguage is included
+• Removed Poco launcher
+• Fastboot port, don't flash with twrp
+
+Special Thanks:
+• @kashis_cringey_stuffs, @NEESCHAL_3 For mods
+• @zGonzah For help
+• @naokoshoto For banner and help
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+155,2024-04-21T14:28:58,2024-07-09T15:44:12,Android,13.,13,Official,https://sourceforge.net/projects/gartriss-archive/files/camellia/camellian_tw_BrickUI_1.0_Hotfix_V14.0.3.0.TKSTWXM_13.0_byGartriss/,photos/photo_120@21-04-2024_14-28-58.jpg,,,,@gartriss,"#BrickUI #official #ROM #T #camellia #camellian
+BrickUI 1.0 | Android 13.
+Released:21/04/24
+
+▪️Download
+▪️Screenshots
+▪️Changelog
+▪️Support
+
+Changelog:
+• Initial build
+
+Bugs: 
+• You tell me
+
+Special thanks
+• @kakashi1v1 For Mod Apps
+• @AskneZZZ for the install script
+• @MahonMo for help
+• @Fars_dev for help
+• @zGonzah for help
+• @konnlori for the RedmiSpoof module
+
+By @gartriss
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+156,2024-04-25T09:09:14,2024-04-25T09:10:30,LineageOS,,13,"GApps, Vanilla, Unofficial, Official",https://sourceforge.net/projects/garudayard/files/camellia/los-pvt/24-APR/,photos/photo_121@25-04-2024_09-09-14.jpg,,,,@zs44pk,"#LineageOS-PVT #Unofficial #ROM #T #Camellia #Camellian 
+LineageOS-PVT 20.0 - UNOFFICIAL | Android 13
+Released: 24/04/2024
+
+▪️ Download (Vanilla) 
+▪️ Screenshots
+▪️ Support Group 
+▪️ Flashing Guide
+
+Changelog:
+• April 2024 security patch
+• Enabled Dual Wifi Interface 
+• Fixed Power Button Screenshot
+• 5G Working Properly
+
+Bugs:
+• Let me know, if you found
+
+Notes:
+• Vanilla Build (NiksGapps Recommend) 
+• Flash only from LineageOS recovery
+• Clean Flash Recommended 
+• SELinux is Enforcing 
+
+Special thanks:
+@rio113 for device tree
+@swapnilvicky For Modded Lineage source
+more
+
+By @zs44pk
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+157,2024-04-26T16:56:00,2024-04-26T17:10:24,NothingOS,,14,Official,"https://sourceforge.net/projects/camellia-build/files/NOS/NothingOS_CAMELLIA_images_2.5.5-A14-U2.5-240408-1040.7z/download, https://drive.google.com/uc?id=1v7uGCiAPoBlHfN1DJ4tcjUuUOZUc7EWR&export=download",photos/photo_122@26-04-2024_16-56-00.jpg,,,,@AskneZZZ,"#NothingOS #OEM #Port #U #Camellia #Camellian
+NothingOS v2.5.5 | Android 14.
+Released:26/04/24
+
+▪️Download | Mirror [3.0GB]
+▪️Screenshot
+▪️Donate
+▪️Support
+
+Changelog:
+• Switched to Xiaomi light hal
+• Fixed phone info
+• Fixed NFC for global variant
+• Switched to global vendor/fw
+• Fixed not booting without root
+• Fixed bootanimation
+
+Bugs:
+• You tell me :D
+ 
+Notes:
+• Flash via fastboot running the respective script (depends on the OS you have)
+• Clean flash is mandatory 
+• Included Nothing OEM splash (ty to @naokoshoto)
+• Ported From (Pacman) Nothing Phone (2a)
+• Based on Miui vendor
+• Aperture is included
+• Flash it via fastboot
+• When you boot and you have 8GB as storage to fix it, restart to recovery and do format data
+
+Special Thanks:
+• @Ouxyl For everything
+• @rapipchan For banner
+Porter Union
+• @Mohaninstantnoodlep, @MSPowerPoint2008, @dellschvlz, @SiaNjirr For support
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+158,2024-04-28T16:39:42,2024-05-05T19:27:35,Matrixx,,14,"GApps, Unofficial, Official",https://drive.google.com/uc?id=1EZw39fO3JU3Nld8fvdkJEAWZTxTq4HIX&export=download,photos/photo_123@28-04-2024_16-39-42.jpg,,,,@ramshell688,"#Matrixx #Unofficial #ROM #U #Camellia #Camellian #EOL
+Matrixx v10.3.0 - UNOFFICIAL | Android 14
+Updated: 11/03/2024
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• February security patch
+• Small change & stability
+
+Bugs:
+• You tell me
+
+Notes:
+• Gapps build
+• Flash with Matrixx recovery
+• Old build forgot to released
+• Only first boot will take longer time
+• SELinux is Enforcing
+
+Special thanks
+@Rio113 for device tree
+@VipulSharma_007, @fnayush
+MT6833 Alience
+
+By @ramshell688
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+159,2024-04-29T20:32:46,2024-04-30T02:20:22,NothingOS,,14,Official,"https://sourceforge.net/projects/camellia-build/files/NOS/NothingOSFix_CAMELLIA_images_2.5.5-A14-U2.5-240408-1040.7z/download, https://drive.google.com/uc?id=1UOEBeBO33_arc0zQlq1rMP8f6FMGu_Ti&export=download",photos/photo_124@29-04-2024_20-32-46.jpg,,,,@AskneZZZ,"#NothingOS #Fix #OEM #Port #U #Camellia #Camellian
+NothingOS Fix v2.5.5 | Android 14.
+Released:29/04/24
+
+▪️Download | Mirror [2.8GB]
+▪️Screenshot
+▪️Donate
+▪️Support
+
+Changelog:
+• Fixed network indicator
+• Fixed refresh rate
+• Fixed screenshot with buttons
+• Fixed flashlight shortcut and widget
+• Some more things I don't remember
+• Performance and stability improvements
+
+Bugs:
+• You tell me :)
+ 
+Notes:
+• Flash via fastboot running the respective script (depends on the OS you have)
+• Dirty flash is ok from previous version
+• Included Nothing OEM splash (ty to @naokoshoto)
+• Ported From (Pacman) Nothing Phone (2a)
+• Aperture camera is included
+• When you boot and you have 8GB as storage to fix it, restart to recovery and do format data
+
+Special Thanks:
+• @Ouxyl For everything
+• @rapipchan For banner
+Porter Union
+• @Mohaninstantnoodlep, @MSPowerPoint2008, @dellschvlz, @SiaNjirr For support
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+160,2024-04-30T16:22:22,2024-04-30T16:34:44,HorizonDroid,2.0,14,"Unofficial, Official",https://github.com/Noah113-Allen/OTA/releases/download/8.0/HorizonDroid_camellia-Neptune-x2.0-UNOFFICIAL-20240108-0708.zip,photos/photo_125@30-04-2024_16-22-22.jpg,,,,@AskneZZZ,"#Horizon #Neptune #EOL #Unofficial #ROM #U #Camellia #Camellian
+HorizonDroid v2.0 EOL - UNOFFICIAL | Android 14.
+Released:30/04/24
+
+▪️Download
+▪️Screenshot
+▪️Flashing guide for NVT | FTS
+▪️Support
+
+Changelog:
+• Initial build and probably the last
+
+Bugs:
+• You tell me :)
+
+Notes:
+• It is only possible to flash with twrp or orange fox (I recommend the latest version of twrp more)
+• Selinux is enforcing
+
+Special thanks:
+• @noah_allen For everything
+• @rio113 For device tree
+• @radinkaelw For server
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+161,2024-05-03T14:34:31,2024-05-03T14:34:43,Android,14.,14,"Unofficial, Official","https://drive.google.com/uc?id=1EslqpDiyxC53oissNvHg_jKORrZLY8CN&export=download, https://drive.google.com/uc?id=1SfzRS4J5OyuldNBkTGctGK9WG12IBrpU&export=download",,,,,@fars_dev,"#PixelBuilds #Unity #Unofficial #ROM #U #Camellia #Camellian
+Pixelbuilds - UNOFFICIAL | Android 14.
+Updated:05/03/24
+
+▪️Download ROM - BOOT
+▪️Screenshots
+▪️Support
+▪️Source Changelog
+
+Changelog:
+• April Security patch
+• Initial release 
+
+Notes:
+• Flash with PixelBuilds recovery
+• Clean Flash is Needed
+
+Special thanks:
+• @rio113 For everything
+• @fnayush and @PAIN7177 for test
+
+By @fars_dev
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+162,2024-05-04T15:08:24,2024-05-04T15:10:37,Android,13,13,"Unofficial, Official","https://drive.google.com/uc?id=1ivjeur0hMyGjW8mjDcDaJQLGWpzmrfge&export=download, https://pixeldrain.com/u/5p22zcYH",photos/photo_126@04-05-2024_15-08-24.jpg,,,,@takixamru,"#MikuUi #Unofficial #ROM #T #camellia #camellia
+Miku Ui ROM  - UNOFFICIAL | Android 13
+Released:04/05/24
+Build Date:10/12/23
+
+▪️Download
+▪️Screenshot
+▪️Support
+
+Notes:
+• @noah_allen & @S_muxi & @AskneZZZ Thanks For Everything 
+• If You Are Facing Slower Download Speed  Then Try This
+• This Is Initial & EOL Build At The Same Time
+• @rio113 for DT 
+• September 2023 Security Patch
+• @PAIN7177 Thanks For Testing 
+
+By @takixamru
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+163,2024-05-22T13:42:20,2024-05-22T13:43:53,DerpFest,,14,"GApps, Vanilla, Unofficial, Official",https://sourceforge.net/projects/garudayard/files/camellia/DerpFest/,photos/photo_127@22-05-2024_13-42-20.jpg,,,,@dr490nized,"#DerpFest #UNOFFICIAL #ROM #T #Camellia #Camellian
+DerpFest - UNOFFICIAL | Android 14.0
+Released: 22/05/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• April security patch
+• Latest synced source
+• 5G With VoLTE Working Fully
+• Dual wifi interface added
+• SS issue with power button fixed 
+• Implement speed-profile
+
+Notes:
+• Flash with DerpFest recovery 
+• Vanilla Build 
+• NiksGapps Recommend
+
+Bugs:
+• You tell me :)
+
+Special thanks to:
+• @noah_allen For everything
+• @rio113 For device tree
+• @fnayush for testing 
+
+By @dr490nized
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+165,2024-05-23T16:57:59,2024-05-23T17:00:38,Android,14.,14,"Unofficial, Official","https://drive.google.com/uc?id=1QCSFM9JYa6Q17X9gE17BmfiLbA598B9B&export=download, https://drive.google.com/uc?id=1QuulMQq9_Igk-5JYezcZ2CcpXz3sU481&export=download",,,,,@fars_dev,"#PixelBuilds #Unity #Unofficial #ROM #U #Camellia #Camellian
+PixelBuilds - UNOFFICIAL | Android 14.
+Updated:05/23/24
+
+▪️Download ROM - BOOT
+▪️Screenshots
+▪️Support
+▪️Source Changelog
+
+Changelog:
+• May Security patch
+• Included Viper4FX
+• Added VoWifi and VoNR Support 
+• Performance is now better than previous build
+
+Bugs:
+•None :)
+
+Notes:
+• Flash with PixelBuilds recovery
+• Dirty flash from previous build is allowed
+• Face unlock is not working since source dosent support it
+
+Special thanks:
+• @rio113 For everything
+• @fnayush and @PAIN7177 for test
+• @noah_allen For help
+
+By @fars_dev
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+166,2024-05-25T12:24:10,2024-05-25T14:21:16,Android,12.1,12,"Unofficial, Official",https://sourceforge.net/projects/clippy-builds/files/camellia/PBRP/?upload_just_completed=true,,,,,@winclippy,"#pbrp #twrp #Unofficial #recovery #12.1 #camellia
+PBRP v4.0_beta - UNOFFICIAL | Android 12.1+
+Released: 25/05/24
+
+▪️Download
+▪️Support
+▪️Screenshots
+
+Changelog:
+• Inital build
+
+Bugs:
+Nvt touch
+
+Note: for using tools it's recommended to install revovery using .zip file
+
+Thanks to:
+@JaVolimSamoDinamo for testing
+@AskneZZZ for twrp DT
+
+By @winclippy
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+168,2024-06-13T06:30:24,2024-06-13T06:41:46,HorizonDroid,,14,"Unofficial, Official",https://drive.usercontent.google.com/download?id=1blo6pROpsrrwTAc_5qU2UvYQQRV3E9vl&export=download&authuser=0,photos/photo_129@13-06-2024_06-30-24.jpg,,,,@AskneZZZ,"#Horizon #Elysium #Unofficial #ROM #U #Camellia #Camellian
+HorizonDroid Elysium - UNOFFICIAL | Android 14. - EOL
+Updated:13/06/24
+
+▪️Download
+▪️Flashing guide
+▪️Support
+
+Changelog:
+• Initial a14 build (And probably the last one too)
+
+Notes:
+• Flash with this TWRP (mandatory)
+
+Special thanks:
+• @rio113 For DT
+• @noah_allen For Everything
+• @fnayush For test
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3Official"
+169,2024-06-13T06:30:25,2024-06-13T06:41:34,PixelExperience,,14,"Unofficial, Official",https://drive.usercontent.google.com/download?id=1HBA7lvjeaQeMs2DJOns3SyqeVGL29RtH&export=download&authuser=0,photos/photo_130@13-06-2024_06-30-25.jpg,,,,@AskneZZZ,"#PEPlus #Unofficial #ROM #U #Camellia #Camellian  
+PixelExperience Plus - UNOFFICIAL | Android 14. - EOL
+Released:13/06/24
+
+▪️ Download
+▪️ Support Group
+▪️ Flashing Guide
+
+Changelog:
+• Initial a14 build (Probably the last one too)
+
+Bugs:
+• You tell me
+
+Notes:
+• Flash with this TWRP (mandatory)
+
+Thanks to:
+• @noah_allen For Everything
+• @rio113 For DT
+• @fnayush For test
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+170,2024-06-17T10:01:49,2024-06-17T10:17:15,DerpFest,,13,"Unofficial, Official",https://sourceforge.net/projects/ayush-archive/files/DerpFest-13-Community-Tango-camellia-20240617-0753/,photos/photo_131@17-06-2024_10-01-49.jpg,,,,default,"#DerpFest #UNOFFICIAL #ROM #T #Camellia #Camellian
+DerpFest - UNOFFICIAL | Android 13.0
+Released: 17/06/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• June security patch
+• Latest synced source
+• 5G With VoLTE Working Fully
+• Dual wifi interface added
+• Play Integrity fix by default
+• Added some extra customisation
+Notes:
+• Flash with DerpFest recovery 
+• Gapss Build 
+
+Bugs:
+• You tell me :)
+
+Special thanks to:
+• @noah_allen & @gartriss
+For everything
+• @rio113 For device tree
+• @fnayush for testing 
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+171,2024-06-17T10:03:25,2024-08-22T10:50:17,VoltageOS,,13,"Vanilla, Unofficial, Official",https://sourceforge.net/projects/gartriss-archive/files/camellia/voltage-2.8-EOL-camellia-20240616-0853-UNOFFICIAL/,photos/photo_132@17-06-2024_10-03-25.jpg,,,,@gartriss,"#VoltageOS #Unofficial #ROM #T #camellia #camellian #EOL
+Voltage OS v2.8 - UNOFFICIAL | Android 13.
+Released:16/06/24
+
+▪️Download
+▪️Support
+
+Changelog:
+• New trees
+• Improved performance
+
+Bugs:
+• Tell to me! :)
+
+Notes:
+• Vanilla build
+
+Thanks to:
+• @noah_allen For Everything
+• @rio113 For tree
+• @fnayush For test
+
+By @gartriss
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+172,2024-06-17T17:07:26,2024-06-17T17:07:35,LineageOS,,14,"GApps, Vanilla, Unofficial, Official","https://drive.google.com/file/d/1IPQ8TU2BPccQ68KBnr1aBHYYueoU8spP/view?usp=sharing, https://drive.google.com/file/d/1VGDDOxpd-p-jpskY7k660Z6W2nMql8qy/view?usp=sharing",photos/photo_133@17-06-2024_17-07-26.jpg,,,,@nisel11,"#LineageOS #Unofficial #ROM #U #Camellia #Camellian 
+LineageOS 21.0 - UNOFFICIAL | Android 14
+Released: 17/06/2024
+
+▪️ Download ROM - BOOT 
+▪️ Support Group 
+▪️ Flashing Guide 
+
+Changelog:
+• Initial A14 Build
+• Signed build
+
+Bugs:
+• Let me know, if you found
+
+Notes:
+• Flash from LineageOS recovery
+• No fingerprint or face unlocking
+• Vanilla build, use MindTheGapps or NikGapps up to omni
+
+Special thanks:
+@rio113 for device tree
+@m929_official for previous builds
+@ciborekaddicttatar for test
+MT6833 Aliance
+
+By @nisel11
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+173,2024-06-18T00:28:13,2024-06-18T00:29:49,aos,,,"Unofficial, Official",https://github.com/IMYdev/TG-X-GH-actions_OFOX-Builder/releases/tag/9359469941,photos/photo_134@18-06-2024_00-28-13.jpg,,,,@AskneZZZ,"#Ofox #Unofficial #Recovery #Camellia #Camellian
+OrangeFox R12.1 - UNOFFICIAL
+Released:17/06/24
+
+▪️Download
+▪️Screenshot 
+▪️Flashing Guide
+▪️Support
+
+Changelog:
+• Added aosp vibrator hal
+• Improvements and fixes
+
+Bugs:
+• NVT touch (Don't ask for fix because it can never be fixed)
+
+Notes:
+• When you flash a ROM don't forget to check the reflash ofox option so that the ofox is not replaced
+• Don't flash on MIUI 12
+
+Special thanks:
+• @noah_allen, @rio113, @ziad_tamer_a, @IMYdev
+Everyone who helped me
+All testers
+
+By @AskneZZZ
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+174,2024-06-19T10:52:32,2024-08-22T10:50:12,ColtOS,,13,"GApps, Vanilla, Unofficial, Official",http://sourceforge.net/projects/gartriss-archive/files/camellia/ColtOS-v13.4-minimal-Unofficial-camellia-20240618-1434/,photos/photo_135@19-06-2024_10-52-32.jpg,,,,@gartriss,"#ColtOS #Enigma #Unofficial #ROM #T #camellia #camellian 
+Colt OS Enigma v13.4 - UNOFFICIAL | Android 13.
+Released:18/06/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Changelog (Source)
+
+Changelog:
+• Initial build
+
+Bugs:
+• Tell to me! :)
+
+Notes:
+• There is gapps and vanilla build
+• Not certified 
+
+Thanks to:
+• @noah_allen For Everything
+• @rio113 For tree
+• @PAIN7177 For test
+
+By @gartriss
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+175,2024-06-19T11:01:24,2024-06-19T12:51:18,Superior,,13,"Vanilla, Unofficial, Official",https://sourceforge.net/projects/superior-os-camellia/files/SuperiorOS-Thirteen-camellia-GAPPS-COMMUNITY-20240619-0452/,photos/photo_136@19-06-2024_11-01-24.jpg,,,,@fnayush,"#Superior #UNOFFICIAL #ROM #T #Camellia #Camellian
+Superior - UNOFFICIAL | Android 13.0
+Released: 17/06/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• December security patch
+• Latest synced source
+• Increased Smoothness
+• Added some extra customisation
+• Signed Rom
+
+Notes:
+• Flash with Superior recovery 
+• Gapss and Vanilla Build 
+Bugs:
+• You tell me :)
+
+Special thanks to:
+• @noah_allen & @gartriss
+For all help
+• @rio113 For device tree
+•  @PAIN7177 for testing 
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+176,2024-06-21T12:24:12,2024-06-21T12:24:47,Android,13.0,13,"Unofficial, Official",https://sourceforge.net/projects/ayush-archive/files/Bliss-v16.9.6-camellia-UNOFFICIAL-gapps-20240621/,photos/photo_137@21-06-2024_12-24-12.jpg,,,,@fnayush,"#Bliss #UNOFFICIAL #ROM #T #Camellia #Camellian
+Bliss - UNOFFICIAL | Android 13.0
+Released: 17/06/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• May security patch
+• Latest synced source
+• Increased Smoothness
+• Added some extra customisation
+• Added thermal profile option
+
+Notes:
+• Flash with bliss recovery 
+• Gapss Build 
+
+Bugs:
+• let me know if u found :)
+
+Special thanks to:
+• @noah_allen for everything
+& @gartriss for mirroring and for all support
+• @rio113 For device tree
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+177,2024-06-21T12:39:26,2024-08-22T10:50:01,LineageOS,,13,"Vanilla, Unofficial, Official",https://sourceforge.net/projects/gartriss-archive/files/camellia/lineage-20.0-20240619-UNOFFICIAL-camellia/,photos/photo_138@21-06-2024_12-39-26.jpg,,,,@gartriss,"#LineageOS #Unofficial #ROM #T #Camellia #Camellian 
+LineageOS 20 - UNOFFICIAL | Android 13.
+Released:21/06/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• Updated to May Security Patch
+• Added thermal profiles
+• Added ViperFX
+
+Bugs:
+• Tell to me! :)
+
+Notes:
+• Vanilla build
+
+Thanks to:
+• @noah_allen For Everything
+• @rio113 and @m929_official For trees
+• @fnayush For test
+
+By @gartriss
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+178,2024-06-22T11:56:51,2024-06-22T11:59:07,LMODroid,,13,"Unofficial, Official",https://sourceforge.net/projects/ayush-archive/files/LMODroid-4.2-20240622-0715-UNOFFICIAL-camellia/,photos/photo_139@22-06-2024_11-56-51.jpg,,,,@fnayush,"#LMODroid #Unofficial #ROM #T #Camellia #Camellian 
+LMODroid 4.2 - UNOFFICIAL | Android 13.
+Released:22/06/24
+
+▪️Download
+▪️Screenshots
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• Initial build
+
+Bugs:
+• Tell to me! :)
+
+Thanks to:
+• @noah_allen and @gartriss For Everything
+• @rio113 For trees
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+179,2024-06-25T12:29:31,2024-06-25T16:21:06,Android,13,13,"Unofficial, Official",https://sourceforge.net/projects/ayush-archive/files/MikuUI-TDA-camellia-24062507-GAPPS-UNOFFICIAL/,photos/photo_140@25-06-2024_12-29-31.jpg,,,,,"#MikuUi #Unofficial #ROM #T #camellia #camellia
+Miku Ui - UNOFFICIAL | Android 13
+Released: 25/06/24
+
+▪️Download
+▪️Screenshot
+▪️Support
+
+Changelog:
+• Fixed screenshot with button
+• Added Leica Camera Support
+
+Bugs:
+• Let me know if u found :)
+
+Notes:
+• Go to developer settings and set windows duration scale to 1x
+• Flash with Miku Recovery
+• If you want to disable taskbar go to home settings and disable it
+
+Special thanks:
+• @noah_allen and @ambrosiakun for everything
+• @rio113 for device tree
+• @winclippy and @MoSamir27 for testing
+• @AskneZZZ for Leica Camera
+
+By @fnayush & @gartriss
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+180,2024-06-25T16:58:17,2024-06-25T17:13:33,Android,14.,14,"Unofficial, Official","https://sourceforge.net/projects/naokoshoto-stuffs/files/camellia-pixelbuilds/Release/boot.img/download, https://sourceforge.net/projects/naokoshoto-stuffs/files/camellia-pixelbuilds/Release/PixelBuilds_camellia-unity-20240625-0613.zip/download",,,,,@naokoshoto,"#PixelBuilds #Unity #Unofficial #ROM #U #Camellia #Camellian
+
+PixelBuilds - UNOFFICIAL | Android 14.
+Updated: 25/06/24
+
+▪️Download ROM | BOOT
+▪️Device Support Group
+▪️Source Changelog
+
+Changelog:
+• June Security patch
+• Initial build by me, signed
+• Face Unlock Fixed
+
+Bugs:
+•None :)
+
+Notes:
+• Flash with PixelBuilds recovery
+• Dirty flash from previous build is prohibited as it's signed
+
+Credits:
+• @rio113 for everything
+• @redmihype, @winclippy, @pankaj_chetri for test
+• @noah_allen for help
+• @fars_dev for handing over PB to me
+
+By @naokoshoto
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+181,2024-06-26T11:06:15,2024-08-22T10:49:47,eOS,,13,"Vanilla, Unofficial, Official",https://sourceforge.net/projects/gartriss-archive/files/camellia/e-2.2-t-20240625-UNOFFICIAL-camellia/,photos/photo_141@26-06-2024_11-06-15.jpg,,,,@gartriss,"#eOS #Unofficial #ROM #T #Camellia #Camellian 
+/e/OS 2.2 - UNOFFICIAL | Android 13.
+Released:26/06/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• Initial build
+
+Bugs:
+• Tell to me! :)
+
+Notes:
+• Only vanilla build
+• MicroG, ViperFX included
+• Rom have alternatives to Google Play and another Google apps (Aurora Store fork and another)
+• June 2024 Security Patch
+
+Thanks to:
+• @noah_allen For Everything
+• @rio113 For trees
+• @winclippy For test
+• @fnayush For server
+
+By @gartriss
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+182,2024-06-27T17:35:40,2024-08-22T10:49:40,LineageOS,,13,"Vanilla, Unofficial, Official",https://sourceforge.net/projects/gartriss-archive/files/camellia/lineage-20.0-20240627-UNOFFICIAL-camellia/,photos/photo_142@27-06-2024_17-35-40.jpg,,,,@gartriss,"#LineageOS #Unofficial #ROM #T #Camellia #Camellian 
+LineageOS 20 - UNOFFICIAL | Android 13.
+Released: 27/06/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• Updated to June Security Patch
+• Fixed Screenshot button
+• Added AOD (Always On Display)
+
+Bugs:
+• Tell to me! :)
+
+Notes:
+• Vanilla build
+
+Thanks to:
+• @noah_allen For Everything
+• @rio113 and @m929_official For trees
+• @winclippy for test
+• @fnayush for server and help
+
+By @gartriss
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+183,2024-06-29T10:07:25,2024-07-04T07:59:33,AwakenOS,,13,"GApps, Unofficial, Official",https://sourceforge.net/projects/ayush-archive/files/awaken-3.10-triton_void-camellia-unofficial-1700-20240628/,photos/photo_143@29-06-2024_10-07-25.jpg,,,,@fnayush,"#awaken #UNOFFICIAL #ROM #T #Camellia #Camellian
+AwakenOS - UNOFFICIAL | Android 13.0
+Released: 29/06/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Initial release
+• Latest synced source
+• Increased Smoothness
+• Added Leica camera thanks to seb
+
+Notes:
+• Flash with awaken recovery 
+• Gapps Build 
+• Signed rom(It means play Store and safety net certified by default)
+• Added AOD
+
+Bugs:
+• let me know if u found :)
+
+Thanks:
+• @rio113 For device tree
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+184,2024-06-30T07:09:04,2024-07-04T07:59:10,Superior,,13,"GApps, Vanilla, Unofficial, Official","https://sourceforge.net/projects/ayush-archive/files/SuperiorOS-EXTENDED-13-camellia-Vanilla-20240629-1638/, https://drive.google.com/uc?id=12xHkV3hcGiZcj-4HWkYU5jc6ScWU6Hoe&export=download",photos/photo_144@30-06-2024_07-09-04.jpg,,,,@fnayush,"#suppex #UNOFFICIAL #ROM #T #Camellia #Camellian
+Superior Extended - UNOFFICIAL | Android 13.0
+Released: 29/06/24
+
+▪️Download | Gapps
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Initial release
+• Latest synced source
+• Increased Smoothness
+
+Notes:
+• Flash with suppex recovery 
+• Gapps Build & Vanilla build 
+• Signed rom
+
+Bugs:
+• Share menu on play Store crash on gapps build
+
+Thanks:
+• @rio113 For device tree
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+185,2024-07-02T16:05:05,2024-07-02T16:05:42,pos,,,,,,,,,,"We kindly inform you that Rio, our main dev for Camellia, has left the organization. Consequently, we request your understanding in refraining from contacting Rio for any Camellia-related matters henceforth.
+For any further assistance regarding Camellia, please direct your inquiries to the appropriate devs who built ROMs and it's already described in the posts. 
+Thank you for your attention to this matter.
+Best regards,
+Admins"
+186,2024-07-03T10:52:32,2024-07-09T13:38:02,Spark,,13,Official,"https://drive.google.com/uc?id=180PrQ3l7SxqvCNe34aniHy--QhmNFn-9&export=download, https://sourceforge.net/projects/ayush-archive/files/Spark-13.13-CUSTOM-camellia-20240703-Gapps/",photos/photo_145@03-07-2024_10-52-32.jpg,,,,@fnayush,"#Spark-Custom #ROM #T #Camellia #Camellian
+Spark custom -  | Android 13.0
+Released: 03/07/24
+
+▪️Download  | Mirror
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Initial release
+• Latest synced source
+• Increased Smoothness
+• June patch
+
+Notes:
+• Flash with spark recovery 
+• Gapss Build  
+• signed rom
+•This is not the official version or official release official spark version was 13.9 as per as pushed source on github and public release was 13.8
+•This is @darkphnx and @jignesh2023 Forked and added things/removed and merged SP
+•This is custom version only for Everpal and camellia do not spam in ""spark global rom support group"" spam in device support group for Everpal and camellia
+
+Bugs:
+• Tell to me
+
+Thanks:
+• @rio113 For device tree
+• @jignesh2023 for source
+• @AskneZZZ for Leica Camera
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+187,2024-07-04T07:54:00,2024-08-23T09:07:53,crDroid,,13,"GApps, Unofficial, Official",https://sourceforge.net/projects/gartriss-archive/files/camellia/crDroidAndroid-13.0-20240704-camellia-gapps-v9.17/,photos/photo_146@04-07-2024_07-54-00.jpg,,,,@gartriss,"#crDroid #Unofficial #ROM #T #Camellia #Camellian #EOL
+crDroid 9.17 - UNOFFICIAL | Android 13.
+Released: 04/07/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• Updated to latest A13 source (9.17)
+• Added ViperFX
+• Added thermal profiles
+• Added Leica Camera
+• Signed build (flashing ROM boot.img is mandatory)
+• Improved performance
+
+Bugs:
+• Tell to me! :)
+
+Notes:
+• Gapps build
+• May 2024 Security Patch
+• Fingerprint and Face Unlock are working
+• Clean flash mandatory
+
+Thanks to:
+• @noah_allen For Everything
+• @rio113 For trees
+• @fnayush For help and server
+• @AskneZZZ for Leica Camera
+
+By @gartriss
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+188,2024-07-09T00:49:28,2024-07-19T16:50:07,HyperOS,,14,Official,"https://drive.google.com/uc?id=1pEIxEZ1r4ziSxTG0CZRdmaLQXCYyPr5L&export=download, http://vodro.mominurislam.workers.dev/0:/camellia_images_OS1.0.4.0.ULSEUXM_PORT..zip",photos/photo_147@09-07-2024_00-49-28.jpg,,,,me,"#HyperOS #EEA #PORT #U #Camellia #Camellian #EOL
+HyperOS.1.0.4.0.ULSEUXM | Android 14 | EOL.
+Ported from: Light (Redmi 10 5G)
+Updated:07/09/24
+
+▪️Download | Mirror 
+▪️Screenshots
+▪️Support
+
+Changelog:
+• first (and last) port by me
+• June Security patch
+• Fixed fp acting like a button
+• fixed nfc
+• fixed Bluetooth
+• added performance and smoothness props
+• debloated rom
+• added blur
+• added peridot wallpapers
+
+Bugs:
+• None 
+
+Notes:
+• fastboot package
+• clean flash REQUIRED 
+• stock miui camera included
+• no hyper dailer or contacts, only google
+• poco launcher is there for POCO devices, hotfix
+•the port will be slow in first boot, give it some time to be stable.
+
+Special thanks:
+• @AskneZZZ for help
+• @nokiplays for help
+• @winclippy for testing
+• @nisel11 for testing
+• @invilise for banner
+• Kronos mods for launcher 
+
+By @fars_dev
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+189,2024-07-09T16:55:35,2024-07-09T16:57:28,LineageOS,,,"Vanilla, Unofficial, Official","https://sourceforge.net/projects/garudayard/files/camellia/los-pvt/boot.img/download, https://sourceforge.net/projects/garudayard/files/camellia/los-pvt/lineage-20.0-20240708-UNOFFICIAL-camellia.zip/download",photos/photo_148@09-07-2024_16-55-35.jpg,,,,@dr490nized,"#LineageOS #SampattiOS #Unofficial #T #Rom #Camellia
+Lineage (SampattiOS) 20.0 | UNOFFICIAL  | Android: 13
+Release : 09.07.2024
+
+▪️Download | Boot
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+▪️Changelogs
+
+Bugs:
+• Tell to me
+
+Notes:
+• Vanilla Build
+• Signed Build
+• Flash From LOS Recovery only
+
+Credits:
+• @noah_allen For Everything
+• @rio113 For trees
+• @swapnilvicky for modifying Source
+
+By @dr490nized
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+190,2024-07-09T17:03:30,2024-07-14T17:55:55,Android,13.0,13,"GApps, Unofficial, Official",https://sourceforge.net/projects/ayush-archive/files/statix_camellia-20240709-13-v6.3-UNOFFICIAL/,photos/photo_149@09-07-2024_17-03-30.jpg,,,,@fnayush,"#Statix #UNOFFICIAL #ROM #T #Camellia #Camellian
+Statix - UNOFFICIAL | Android 13.0
+Released: 29/06/24
+
+▪️Download 
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Initial release
+• Latest synced source
+• Increased Smoothness
+
+Notes:
+• Flash with statix recovery 
+• Gapps Build 
+• signed rom
+• You need to set apn first time
+
+Bugs:
+• You tell me
+
+Thanks:
+• @rio113 For device tree
+• @PAIN7177 , @Prime_KingKai , @winclippy for testing 
+• @gartriss for mirror
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+191,2024-07-12T01:01:00,2024-07-14T17:55:35,Android,14.0,14,"GApps, Unofficial, Official",https://mega.nz/file/Ve0jkRja#VZJ6dgnP0cQH_6TtnKy0NzcaQU4Ylxo9Ovfm5opeRGE,photos/photo_150@12-07-2024_01-01-00.jpg,,,,@fnayush,"#Statix #UNOFFICIAL #ROM #U #Camellia #Camellian
+Statix - UNOFFICIAL | Android 14.0
+Released: 29/06/24
+
+▪️ROM | BOOT
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Initial release
+• Latest synced source
+• Increased Smoothness
+
+Notes:
+• Flash with statix recovery 
+• Gapps Build 
+
+Bugs:
+• You tell me
+
+Thanks:
+• @rio113 For device tree
+• @PAIN7177 , @winclippy for testing 
+• @gartriss for mirror
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+192,2024-07-14T17:53:38,2024-07-27T11:50:55,Android,13.0,13,"Unofficial, Official","https://mega.nz/file/9SMQlIjA#TJ5ghAhvW1Af4dnlNz_XPmr2d2hDC2RwEeV-DVoIeWc, https://mega.nz/file/EHNEARTJ#fFwasDA17h8axLSXlpA1PCOyeN9npSXMftyZMvZMWDc",photos/photo_151@14-07-2024_17-53-38.jpg,,,,@fnayush,"#Bliss #UNOFFICIAL #ROM #T #Camellia #Camellian
+Bliss - UNOFFICIAL | Android 13.0
+Released: 14/07/24
+
+▪️ROM | BOOT
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Fixed bugs
+• Latest synced source
+• Increased Smoothness
+
+Notes:
+• Flash with bliss recovery 
+• Gapss Build  
+
+Bugs:
+• let me know if u found :)
+
+Special thanks to:
+• @noah_allen for everything
+• @rio113 For device tree
+• @ME0SUKUNA & @winclippy for testing 
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+194,2024-07-17T03:40:17,2024-07-17T12:23:19,Spark,,13,"Vanilla, Official",https://mega.nz/folder/5XsV3QBZ#x7E-9vpy9wdFje7tiP9GWA,photos/photo_152@17-07-2024_03-40-17.jpg,,,,@fnayush,"#Spark-Custom #ROM #T #Camellia #Camellian
+Spark-Custom 14.0 -  | Android 13.0
+Released: 17/07/24
+
+▪️Download 
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+▪️Changelog
+
+Notes:
+• Dirty flash fine from previous version
+• Flash with spark recovery 
+• Gapss and vanilla Build  
+• signed rom
+•This is not the official version or official release official spark version was 13.9 as per as pushed source on github and public release was 13.8
+•This is @darkphnx and @jignesh2023 Forked and added things/removed and merged SP
+•This is custom version only for Everpal and camellia do not spam in ""spark global rom support group"" spam in device support group for Everpal and camellia
+
+Bugs:
+• Tell to me
+
+Thanks:
+• @rio113 For device tree
+• @jignesh2023 for source
+• @dr490nized for engineiring mode
+• @Deep251004 for help
+• @Prime_KingKai and @ME0SUKUNA for testing
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+196,2024-07-21T13:38:10,2024-07-22T08:48:15,Android,14.,14,"Unofficial, Official",https://mega.nz/folder/waUmjbDL#NpXFuxzwNVj2cehtqITfRw,,,,,me,"#PixelBuilds #Unity #Unofficial #ROM #U #Camellia #Camellian
+
+PixelBuilds - UNOFFICIAL | Android 14.
+Updated: 21/07/24
+
+▪️Download
+▪️Device Support Group
+▪️Source Changelog
+▪️Screenshot
+
+Changelog:
+• July Security patch
+• Initial build by me
+• Fingerprint added
+• Face unlock added
+• Signed rom
+
+Bugs:
+• None :)
+
+Notes:
+• Flash with PixelBuilds recovery
+
+Credits:
+• @rio113 for Trees
+• @JaVolimSamoDinamo for testing 
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+198,2024-07-27T11:37:17,2024-07-27T12:21:25,RussianOS,,13,"GApps, Vanilla, Unofficial, Official",https://mega.nz/folder/QasDjD4T#xYU_JL-6oGQiQNWyz-FrSA,photos/photo_153@27-07-2024_11-37-17.jpg,,,,@fnayush,"#Baikal #UNOFFICIAL #ROM #T #Camellia #Camellian
+RussianOS - UNOFFICIAL | Android 13.0
+Released: 27/07/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Latest synced source
+• Increased Smoothness
+• Signed Rom
+
+Notes:
+• Flash with Baikal recovery 
+• Gapss and Vanilla Build 
+• Gapps build need to be registered device vanilla build is fine
+
+Bugs:
+• You tell me :)
+
+Special thanks to:
+• @rio113 For device tree
+• @ME0SUKUNA for testing 
+• @PAIN7177 for server 
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+201,2024-08-11T09:15:27,2024-08-13T11:13:19,HyperOS,,13,Official,"https://mega.nz/file/lTt0zbpB#v0CSafNtsaZ5LJUk-yNmFLc429GcVSKwt9e_bfAWKBs, https://drive.google.com/uc?id=10RF2Rz00yahQuhXVXL6SW_pe7WvTuU2I&export=download",photos/photo_154@11-08-2024_09-15-27.jpg,,,,@fnayush,"#HyperOS #EEA #Port #T #Camellia #Camellian
+HyperOS 1.0.1.0.TGLEUXM | Android 13.
+Ported From:Opal
+Released:11/08/24
+
+▪️Download | Mirror [4.9GB]
+▪️Screenshots
+▪️Support
+
+Changelog:
+• hyper launcher with Google features 
+• Added Security app mod
+• Added screenrecorder mod
+• Added Mi Macro features
+• Updated Joyose app
+
+Bugs:
+You tell me :) 
+
+Notes:
+• Clean flash necessary
+• first boot will take 1 -2 hr to full smooth
+• Fastboot port, don't flash with twrp
+• If u want App opening animation install this apk :- launcher
+
+Special Thanks:
+• @Deep251004 and @Sjimmy765 for help
+• @JaVolimSamoDinamo and @PAIN7177 for testing
+• @naokoshoto For banner
+• @farsxdev for some help
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+207,2024-08-19T08:30:27,2024-08-19T08:30:49,HyperOS,,,,,,,,,,"If you guys want new stuffs from the team, please kindly test anything that we provide.
+
+There's no hope for begging to ximi to update the OS to HyperOS, not even security patches."
+208,2024-08-21T15:56:38,2024-08-21T16:02:50,Android,14.,14,"Unofficial, Official","https://index.g4ruda.live/0:/PixelBuilds_camellia-unity-20240821-0335.zip, https://sourceforge.net/projects/ayush-archive/files/PixelBuilds_camellia-unity-20240821-0335/",photos/photo_157@21-08-2024_15-56-38.jpg,,,,me,"#PixelBuilds #Unity #Unofficial #ROM #U #Camellia #Camellian
+
+PixelBuilds - UNOFFICIAL | Android 14.
+Updated: 21/08/24
+
+▪️Download  | Mirror
+▪️Device Support Group
+▪️Source Changelog
+▪️Screenshot
+
+Changelog:
+• August Security patch
+• Initial build by me
+• Fingerprint added
+• Face unlock added
+• Signed rom install this apk for Play integrity:- click
+
+Bugs:
+• None :)
+
+Notes:
+• Flash with PixelBuilds recovery
+
+Credits:
+• @rio113 for Trees
+• @nisel11 for server and testing
+• @gartriss for uploading to sf
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+209,2024-08-21T19:13:41,2025-01-15T05:02:33,HyperOS,,14,Official,"https://drive.google.com/uc?id=1H4iuJOERIVrCr5_Q79sU1HHTC9vgcyRS&export=download, https://sourceforge.net/projects/gartriss-archive/files/camellia/HyperOS_Port_OS1.0.11.0.UNQEUXM_camellia_A14/",photos/photo_158@21-08-2024_19-13-41.jpg,,,,@gartriss,"#HyperOS #EEA #Port #U #Camellia #Camellian
+HyperOS 1.0.11.0.UNQEUXM | Android 14
+Ported From:Gold
+Released:21/08/24
+
+▪️Download | Mirror
+▪️Support
+
+Changelog:
+• Initial build by me (and last :D)
+
+Bugs:
+• Broken MIUI Camera (you need to install another camera app, this for example | or this module (Leica camera))
+• Not booting on Chinese Camellia version
+
+Notes:
+• NO AOD!!!!
+• Clean flash necessary
+• Fastboot ROM
+• Core Patch Included
+• HyperOS Launcher for POCO devices
+• July 2024 Security Patch
+• If you get any System Updates in settings DO NOT update it or the result will be a brick
+
+Special Thanks:
+• @farsxdev, @fnayush, @AskneZZZ for help
+• @nisel11 for testing
+• @kakashi1v1 for modded launcher
+• @AskneZZZ for the install script
+
+By @gartriss
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+210,2024-08-23T15:59:02,2024-08-23T15:59:27,HyperOS,,,,,,,,,,"IMPORTANT NOTICE
+
+DO NOT flash this HyperOS https://t.me/pecamelliaupdates/209
+If you are on Chinese version of camellia or camellian
+
+If you do flash, this will be the result..
+https://t.me/pecamellia/141752
+
+If you are on any version of camellia/n other then Chinese feel free to flash it👍"
+211,2024-08-23T18:46:02,2025-01-15T05:02:15,eOS,,13,"Vanilla, Unofficial, Official","https://drive.google.com/uc?id=13vKWLGbVRBwdT8gwueXkQgqlMa15xNvz&export=download, https://sourceforge.net/projects/gartriss-archive/files/camellia/e-2.3-t-20240823-UNOFFICIAL-camellia/",photos/photo_159@23-08-2024_18-46-02.jpg,,,,@gartriss,"#eOS #Unofficial #ROM #T #Camellia #Camellian #EOL
+/e/OS 2.3 - UNOFFICIAL | Android 13.
+Released:23/08/24
+
+▪️Download | Mirror
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• Updated to v.2.3 and July 2024 Security Patch
+• Fixed MTP bug
+• Fixed Screenshot button bug 
+
+Bugs:
+• Tell to me! :)
+
+Notes:
+• Only vanilla build 
+• MicroG, ViperFX included
+• Rom have alternatives to Google Play and another Google apps (Aurora Store fork and another)
+
+Thanks to:
+• @noah_allen For Everything
+• @rio113 For trees
+• @nisel11 For server and test
+
+By @gartriss
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+212,2024-08-25T18:47:04,2024-09-10T05:28:08,naokos,,,"Unofficial, Official",,,,,,crowdfunding the necessary resources. Please send as much as you are able to provide to us.,"Dear Camellia/n community, 
+
+This is a serious note from camellian development team
+
+Due to recent events like EoL, and no kernel source, many of our developers have left development for this phone... , 
+
+The developers that are still with us, are currently struggling with servers that are needed to build ROMs, they are very expensive and the prices are only going up..
+That's why we need YOU to help our developers by crowdfunding the necessary resources. Please send as much as you are able to provide to us.
+
+We are sad to announce that if we don't get the necessary resources this device will unfortunately be officially and unofficially EoL.
+
+
+Additionally, if we raise enough money we will be able to continue with the work on the kernel source, which Xiaomi by law has to release publicly, but they of course didn't..
+That's why we have to build it from scratch and that is very hard..
+
+
+Help us, please and thank You.
+
+International: https://paypal.me/gemerfoxy
+Indonesian: PM @naokoshoto for GoPay / Bank Transfer"
+216,2024-09-02T17:24:45,2024-09-02T17:28:50,LMODroid,,14,"GApps, Vanilla, Unofficial, Official",https://sourceforge.net/projects/ayush-archive/files/LMODroid-5.0-20240902-1433-UNOFFICIAL-camellia/,photos/photo_160@02-09-2024_17-24-45.jpg,,,,@fnayush,"#LMODroid #Unofficial #ROM #U #Camellia #Camellian 
+LMODroid 5.0 - UNOFFICIAL | Android 14.
+Released: 02/09/24
+
+▪️Download
+▪️Screenshots
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• Initial build
+
+Bugs:
+• Tell to me! :)
+
+Notes:
+• Vanilla and Gapps both build included
+• Gapps build need to register device
+:- click 
+
+Thanks to:
+• @NexeronGTU for server 
+• @rio113 For trees
+• @redmihype , @PAIN7177 for test
+• @gartriss for uploading
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+218,2024-09-07T15:41:00,2024-09-07T15:41:30,ArrowOS,,13,"GApps, Unofficial, Official",https://sourceforge.net/projects/ayush-archive/files/Arrow-v13.1-camellia-EXTENDED-20240906/,photos/photo_161@07-09-2024_15-41-00.jpg,,,,default,"#Arrow #UNOFFICIAL #ROM #T #Camellia #Camellian
+ArrowOS_Extended- UNOFFICIAL | Android 13.0
+Released: 07/09/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• August security patch
+• Latest synced source
+• Added some performance tweak
+• Strong integrity passes by default
+• Source
+
+Notes:
+• Flash with Arrow recovery 
+• Gapps Build
+
+Bugs:
+• None
+
+Special thanks to:
+• @vistrd for test
+• @rio113 For device tree
+• @gartriss for uploading to sf
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+219,2024-09-08T14:13:59,2025-01-15T05:01:57,HyperOS,,14,Official,"https://sourceforge.net/projects/gartriss-archive/files/camellia/HyperOS_Port_OS1.0.9.0.UNQINXM_camellia_A14/, https://drive.google.com/uc?id=1Qt2AbJ_xAwSs00llCNIP8qTGdU9YINki&export=download",photos/photo_162@08-09-2024_14-13-59.jpg,,,,@gartriss,"#HyperOS #India #IN #Port #U #Camellia #Camellian
+HyperOS India 1.0.9.0.UNQINXM | Android 14
+Ported From: Gold
+Released:08/09/24
+
+▪️Download | Mirror
+▪️Support
+
+Changelog:
+• Initial build
+
+Bugs:
+• Tell to me :D!
+
+Notes:
+• AOD Included (I'm not responsible for your burned display. Use with your own risk)
+• Blur on 4/64
+• Not signed (you need to use Magisk Module)
+• Security Center Mod Included
+• Clean flash necessary
+• Fastboot ROM
+• Core Patch Included
+• HyperOS Launcher for POCO devices
+• July 2024 Security Patch
+• Not working on Chinese Camellia version
+• If port is not smooth, flash this module. It will remove blur in notifications and sound bar.
+
+Special Thanks:
+• @zGonzah for help
+• @fnayush for AOD and help
+• @nisel11 for testing
+• @kakashi1v1 for modded launcher
+• @PeaceHyperMods for modded Security Center and Mi Macro
+• @rexix01 for the install script
+
+By @gartriss
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+225,2024-09-11T14:10:34,2024-09-12T11:56:10,RisingOS,,13,"Vanilla, Unofficial, Official",https://sourceforge.net/projects/ayush-archive/files/risingOS-v1.4-Elysium-FINAL-202409111004-camellia-VANILLA-COMMUNITY/,photos/photo_163@11-09-2024_14-10-34.jpg,,,,@fnayush,"#RisingOS #Unofficial #ROM #T #EOL #Camellia #Camellian
+RisingOS 1.4 Elysium Final - UNOFFICIAL | Android 13
+Released: 11/09/2024
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• September security patch
+• Based on rebase trees
+• Improve smoothness and performance
+
+Bugs:
+- You tell me
+
+Notes:
+• Vanilla build
+• Flash with rising recovery
+• SELinux is Enforcing
+• Use Gcam :- apk
+
+Special thanks
+@Rio113 for device tree
+@ITSMESUKUNA for testing
+@gartriss for uploading to sf
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+227,2024-09-14T18:57:41,2024-09-14T19:00:32,Android,13.0,13,"GApps, Unofficial, Official",https://sourceforge.net/projects/ayush-archive/files/Bliss-v16.9.7-camellia-UNOFFICIAL-gapps-20240914/,photos/photo_164@14-09-2024_18-57-41.jpg,,,,@fnayush,"#Bliss #UNOFFICIAL #ROM #T #Camellia #Camellian
+Bliss - UNOFFICIAL | Android 13.0
+Released: 14/07/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Fixed bugs
+• Latest synced source
+• Increased Smoothness
+• Qs lag to 0
+• August Security Patch
+
+Bugs:
+• Let me know if u found :)
+
+Notes:
+• Flash with Bliss Recovery 
+• Gapps Build  
+
+Special thanks to:
+• @rio113 For device tree
+• @vistrd for testing 
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+228,2024-09-15T14:51:10,2024-09-17T03:44:16,ArrowOS,,13,"GApps, Unofficial, Official","https://github.com/ArrowOS-Extended/arrow_extended_changelog.git, https://github.com/visionavtr/camellia-roms/releases, https://sourceforge.net/projects/ayush-archive/files/Arrow-v13.1-camellia-EXTENDED-20240915-GAPPS/",photos/photo_165@15-09-2024_14-51-10.jpg,,,,default,"#Arrow #UNOFFICIAL #ROM #T #Camellia #Camellian
+ArrowOS_Extended- UNOFFICIAL | Android 13.0
+Released: 15/09/24
+
+▪️Download | SourceForge
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• September security patch
+• Latest synced source
+• Added some performance tweak
+• Strong integrity passes by default
+• Source
+• Reduce qs lag
+
+Notes:
+• Flash with Arrow recovery 
+• Gapps Build
+
+Bugs:
+• None
+
+Special thanks to:
+• @vistrd for test & uploading to gh
+• @rio113 For device tree
+• @gartriss for uploading to sf
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+231,2024-09-17T10:57:10,2025-01-22T19:24:37,Android,14.,14,"Unofficial, Official",http://camellia.vistrd.su/,photos/photo_166@17-09-2024_10-57-10.jpg,,,,me,"#PixelBuilds #Unity #Unofficial #ROM #U #Camellia #Camellian
+
+PixelBuilds - UNOFFICIAL | Android 14.
+Updated: 17/09/24
+
+▪️Download 
+▪️Device Support Group
+▪️Source Changelog
+▪️Screenshot
+
+Changelog:
+• September Security patch
+• Initial build by me
+• Fingerprint added
+• Face unlock added
+• Signed rom, Clean flash user have to do this :- click . Passes basic and device intergrity.
+• Switch to common qti vibrator
+• Switch to skiaglthread
+• Hdr spoof Added and many more
+
+Bugs:
+• None :)
+
+Notes:
+• Flash with PixelBuilds recovery
+• Dirty flash is fine
+
+Credits:
+• @rio113 for Trees
+• @vistrd for testing & uploading to gh & server
+• @Prime_KingKai for testing 
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+232,2024-09-20T14:05:41,2024-09-20T20:18:42,LineageOS,,,"Vanilla, Unofficial, Official","https://drive.google.com/uc?id=15BItPlvDlG2_CpYbp59he3LzY7LDTQnM&export=download, https://sourceforge.net/projects/garudayard/files/camellia/LineageOS/",photos/photo_148@09-07-2024_16-55-35.jpg,,,,@dr490nized,"#LineageOS #SampattiOS #Unofficial #T #Rom #Camellia
+Lineage (SampattiOS) 20.0 | UNOFFICIAL  | Android: 13
+Release : 19.09.2024
+
+▪️Download | Mirror 
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+▪️Changelogs
+
+Bugs:
+• Tell to me
+
+Notes:
+• Vanilla Build 
+• Clean Flash Recommended
+• Flash From LOS Recovery
+• Firmware already Included
+
+Credits:
+• @noah_allen For Everything
+• @rio113 For trees
+• @swapnilvicky for Source
+
+By @dr490nized
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+233,2024-09-21T17:42:37,2024-09-22T10:37:15,LineageOS,,13,"GApps, Vanilla, Unofficial, Official","https://drive.google.com/uc?id=1ZWQaSkuCJu8YyOAIHK_BBgr189pTim1w&export=download, https://drive.google.com/uc?id=1dgQgn68deYW_9NI2Of9IJq0WC_buN4II&export=download, https://sourceforge.net/projects/gartriss-archive/files/camellia/lineage-20.0-20240918-UNOFFICIAL-camellia/",,,,,@gartriss,"#LineageOS #Unofficial #ROM #T #Camellia #Camellian 
+LineageOS 20 - UNOFFICIAL | Android 13
+Released: 18/09/24
+
+▪️Download | Mirror: VANILLA and GAPPS
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• Added Gapps build
+• QS pull leg fixed
+• Switch to common QTI vibrator service
+• Enabled ZRAM Writeback
+• Drop Refresh Rate QS Tile
+
+Bugs:
+• AOSP Keyboard can be broken (just install Gboard from Play Store)
+• Tell to me :)
+
+Notes:
+• Vanilla and Gapps build
+
+Thanks to:
+• @noah_allen For Everything
+• @rio113 For trees
+• @vistrd for test and server
+• @fnayush for help and some commits
+• @dr490nized for some commits
+
+By @gartriss
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+234,2024-09-25T03:15:53,2024-10-09T06:01:58,crDroid,,13,"GApps, Vanilla, Unofficial, Official","https://drive.google.com/uc?id=15U2RVeeBGDaX3JH_QkD_JoWdkRt7Azk3&export=download, https://sourceforge.net/projects/camelliaroms/files/crdroid/",photos/photo_168@25-09-2024_03-15-53.jpg,,,,app.,"#crDroid #Unofficial #ROM #T #Camellia #Camellian
+crDroid 9.19 - UNOFFICIAL | Android 13.
+Released: 25/09/24
+
+▪️Download | Mirror
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• Updated to latest A13 source (9.19).
+• Added ViperFX.
+• Improved performance.
+• Added Dolby app.
+• Added Dolby audio effect.
+• Added an option to clear speaker.
+• And all the changes which was on my latest pixel build.
+
+Bugs:
+• Tell to me! :)
+
+Notes:
+• Vanilla and Gapps build
+• August 2024 Security Patch
+• Clean flash mandatory
+
+Thanks to:
+• @vistrd for test
+• @Jignesh2023 for help
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+243,2024-10-01T13:42:20,2025-01-15T05:01:23,eOS,,13,"Vanilla, Unofficial, Official",https://pixeldrain.com/u/Tq8PtLkW,photos/photo_170@01-10-2024_13-42-20.jpg,,,,@gartriss,"#eOS #Unofficial #ROM #T #Camellia #Camellian 
+/e/OS 2.4 - UNOFFICIAL | Android 13.
+Released:01/10/24
+
+▪️Download | boot.img
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• Updated to v.2.4 and September 2024 Security Patch
+• QS pull leg fixed
+• Switch to common QTI vibrator service
+• Enabled ZRAM Writeback
+• Drop Refresh Rate QS Tile
+
+Bugs:
+• Tell to me! :)
+
+Notes:
+• Only vanilla build 
+• MicroG, ViperFX included
+• Rom have alternatives to Google Play and another Google apps (Aurora Store fork for example)
+
+Thanks to:
+• @noah_allen For Everything
+• @rio113 For trees
+• @nisel11 For server
+• @winclippy For test
+
+By @gartriss
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+244,2024-10-07T11:43:22,2024-10-08T17:25:18,Android,13.,13,"GApps, Official","https://drive.google.com/uc?id=1VbQmWyiBLX3xqpxFLfmTdj39H6SdB4rx&export=download, https://sourceforge.net/projects/camelliaroms/files/afterlife/",photos/photo_171@07-10-2024_11-43-22.jpg,,,,@fnayush,"#Afterlife #Greedy #NeverDie #Community #ROM #T #Camellia #Camellian
+Afterlife v6.0 - Greedy - Community | Android 13.
+Updated:7/10/24
+
+▪️ Download | Mirror
+▪️ Screenshots
+▪️ Source Changelog
+▪️ Support
+
+Changelog: 
+• Performance improvents
+• Fixed qs lag
+• preopt all apps
+• Many more
+
+Notes:
+• Dirty flash from it's fine from previous version 
+• Flash with afterlife recovery
+• Gapps build
+• Use No blur one for better performance
+
+Special thanks:
+• @rio113 For device tree 
+• @vistrd for test and server
+• @MoSamir27 for test
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+245,2024-10-10T11:27:55,2024-10-12T14:25:01,LineageOS,,13,"GApps, Vanilla, Unofficial, Official","https://sourceforge.net/projects/ordinaryendersstuff/files/ROMs/, https://drive.google.com/uc?id=10uPyZvZZHMeMNpZl-JVHDPV5O0TXa6vp&export=download",,,,,Atmos,"#LineageOS #Unofficial #ROM #T #Camellia #Camellian 
+LineageOS 20 - UNOFFICIAL | Android 13
+Released: 10/10/24
+
+▪️Download | Mirror
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• Added VIPERFX and Dolby Atmos
+• Performance (Probably) Improved
+
+Bugs:
+• Still Unknown D: (You can report it to @OrdinaryEnder)
+
+Notes:
+• Vanilla only build, use LiteGapps/NikGapps for google goodies (Performance may be affected)
+• Unsigned ROM (using test-keys, may broke some apps, spoof device if you need the app to be working)
+• Dirty Flash is fine from gartriss's Lineage Build (Probably dirty flash work from SampattiOS)
+
+
+Thanks to:
+• @rio113 For trees
+• @fnayush for help and some commits
+
+By @OrdinaryEnder
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+248,2024-10-20T15:04:41,2024-10-20T15:04:51,Android,14.,14,"Unofficial, Official","https://drive.google.com/uc?id=1hXPnamlhN08kycr-UsaqqxQA3ocYUSue&export=download, https://sourceforge.net/projects/camelliaroms/files/pb-camellia/",photos/photo_172@20-10-2024_15-04-41.jpg,,,,me,"#PixelBuilds #Unity #Unofficial #ROM #U #Camellia #Camellian
+
+PixelBuilds - UNOFFICIAL | Android 14.
+Updated: 20/10/24
+
+▪️Download | Mirror
+▪️Device Support Group
+▪️Source Changelog
+▪️Screenshot
+
+Changelog:
+• October Security patch
+• Initial build by me
+• Fingerprint added
+• Face unlock added
+• For Play integrity:- click
+
+Bugs:
+• None :)
+
+Notes:
+• Flash with PixelBuilds recovery
+
+Credits:
+• @rio113 for Trees
+• @vistrd for server and testing
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+249,2024-10-30T17:41:57,2024-10-31T07:16:09,HyperOS,,14,Official,https://sourceforge.net/projects/camelliaroms/files/PaperOS/,photos/photo_173@30-10-2024_17-41-57.jpg,,,,@fnayush,"#HyperOS #U #Camellia #Camellian
+PaperOS 3.5 | Android 14
+Released:30/10/24
+
+▪️Download 
+▪️Screenshots
+▪️Flashing Guide
+▪️Support
+
+Changelog:
+• Initial build
+
+Bugs:
+• Tell to me :D!
+
+Notes:
+•After booting reboot your device
+
+Thanks:
+•@vistrd for testing
+•@ITSMESUKUNA for banner
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+251,2024-10-31T17:49:45,2024-10-31T18:33:26,ArrowOS,,13,"GApps, Unofficial, Official","https://sourceforge.net/projects/camelliaroms/files/arrow/, https://github.com/ArrowOS-Extended/arrow_extended_changelog.git",photos/photo_174@31-10-2024_17-49-45.jpg,,,,@fnayush,"#Arrow #UNOFFICIAL #ROM #T #Camellia #Camellian
+ArrowOS_Extended- UNOFFICIAL | Android 13.0
+Released: 15/09/24
+
+▪️Download 
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• October security patch
+• Latest synced source
+• Source
+• fix qs lag
+• Added dolby
+
+Notes:
+• Flash with Arrow recovery 
+• Gapps Build
+
+Bugs:
+• None
+
+Special thanks to:
+• @vistrd for test & server
+• @rio113 For device tree
+
+By @fnayush
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+252,2024-11-01T18:34:21,2025-01-15T05:00:49,HyperOS,,14,Official,"https://github.com/Dityay/HyperFlow-OSS/commits/main/, https://sourceforge.net/projects/gartriss-archive/files/camellia/HyperFlow_OFFICIAL_OS1.0.14.0.UNQEUXM_camellia/, https://drive.google.com/uc?id=1qXqvIci-eFu0XJnGI6pnviyt3esaUd6C&export=download",photos/photo_175@01-11-2024_18-34-21.jpg,,,,@gartriss,"#HyperOS #HyperFlow #U #Camellia #Camellian
+HyperFlow - OFFICIAL | Android 14
+Released: 01/11/24
+
+▪️Download | Mirror 
+▪️Changelog
+▪️Flashing Guide
+▪️Support
+
+Changelog:
+• Initial build
+
+Bugs:
+• Fp acting like a button for some devices 
+• Tell to me :D 
+
+Notes:
+• Based on Gold OS1.0.14.0.UNQEUXM
+• Fastboot ROM
+
+Special Thanks:
+• @winclippy for testing
+• @itzSpelly and @dtyaa_ajh for source
+
+By @gartriss
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+254,2024-11-12T16:51:32,2024-11-12T17:08:13,Android,15,15,,,photos/photo_177@12-11-2024_16-51-32.jpg,,,,,"Camellia booted Android 15 GSI🥳🎉, 
+
+Thanks @vistrd for testing and @MassiRE for the GSI ❤️
+
+Screenshots"
+255,2024-11-20T06:13:06,2024-11-20T13:44:45,ArrowOS,,13,"GApps, Unofficial, Official",https://sourceforge.net/projects/ordinaryendersstuff/files/ArrowOS%20MiPA%20Edition/,,,,,@OrdinaryEnder,"#Arrow #UNOFFICIAL #ROM #T #Camellia #Camellian
+ArrowOS MiPA Edition UNOFFICIAL | Android 13.0
+Released: 20/11/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• Latest synced source (prob the last of the fork)
+• Added some performance tweaks
+• Reduce qs lag
+
+Notes:
+• Flash with Arrow recovery 
+• Gapps Build 
+• no chaldea gamespace, instead use Google Game Dashboard (might not support that much games)
+
+Bugs:
+•  Night Light flickering, Fix still unknown
+•  A minor launcher bug, you can use this Lawnchair instead (Magisk Module)
+
+Special thanks to:
+• @vistrd, @KashyapKx for test
+• @rio113 For device tree
+• @DinamoJeSvetinja for banner
+• @fnayush for tree and vendor 
+
+By @OrdinaryEnder
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+256,2024-11-21T12:52:02,2025-01-22T19:23:35,Android,14.,14,"Unofficial, Official","http://camellia.vistrd.su/, https://github.com/chiteroman/PlayIntegrityFix/releases",photos/photo_178@21-11-2024_12-52-02.jpg,,,,me,"#PixelBuilds #Unity #Unofficial #ROM #U #Camellia #Camellian
+
+PixelBuilds - UNOFFICIAL | Android 14.
+Updated: 21/11/24
+
+▪️Download
+▪️Device Support Group
+▪️Source Changelog
+▪️Screenshot
+
+Changelog:
+• November Security patch
+• Initial build by me
+• For Play integrity:- click
+
+Bugs:
+• None :)
+
+Notes:
+• Flash with PixelBuilds recovery
+
+Credits:
+• @rio113 for Trees
+• @fnayush for help
+
+By @vistrd
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+257,2024-11-21T15:10:03,2024-11-21T15:10:11,DerpFest,,13,"GApps, Unofficial, Official",https://sourceforge.net/projects/ordinaryendersstuff/files/Derpfest%20Tango%20%28Ordinary%20Build%29/,photos/photo_179@21-11-2024_15-10-03.jpg,,,,@OrdinaryEnder,"#DerpFest #UNOFFICIAL #ROM #T #Camellia #Camellian
+DerpFest - UNOFFICIAL | Android 13.0
+Released: 21/11/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• October security patch
+• Latest synced source
+
+Notes:
+• Flash with DerpFest recovery 
+• Gapps Build 
+• Uses libperfmgr, Battery and Performance Might be Impacted (prob increasing performance in cost of Battery Life)
+
+Bugs:
+• Uhhhh, tell @OrdinaryEnder since there are no bugs found (yet)
+
+Special thanks to:
+• @rio113 For device tree
+• @vistrd for testing and server
+• @DinamoJeSvetinja chad banner maker
+
+By @OrdinaryEnder
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+258,2024-11-23T18:11:54,2024-11-23T18:12:03,OriginOS,4,14,,,,,,,,"Who wants to test OriginOS 4 Android 14 for Camellia(n) ??
+
+link -https://www.mediafire.com/file/gnph2cwvnq4jraz/camellia%2528n%2529_OriginOS4_Beta_20241123_Flx.zip/file"
+260,2024-11-30T19:31:47,2024-12-07T08:23:13,DerpFest,,13,"GApps, Unofficial, Official",https://sourceforge.net/projects/ordinaryendersstuff/files/Derpfest%20Tango%20(Ordinary%20Build)/,photos/photo_180@30-11-2024_19-31-47.jpg,,,,@OrdinaryEnder,"#DerpFest #UNOFFICIAL #ROM #T #Camellia #Camellian
+DerpFest - UNOFFICIAL | Android 13.0
+Released: 01/12/24 00:25 (WIB)
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• November security patch
+• Latest synced source
+
+Notes:
+• Flash with DerpFest recovery 
+• Gapps Build 
+• uses libperfmgr, Battery and Performance Might be Impacted (prob increasing performance in cost of Battery Life)
+• DO NOT use blur on 4/64
+• Dirty Flash probably causes Instagram, YT, or other video playback doesn't play, Clean Flash is mandatory
+
+Bugs:
+• I'm afraid I don't see any, can you please find one if you could? Thank you ^-^
+
+Special thanks to:
+• @rio113 For device tree
+• @vistrd for server
+• @fnayush vendor commits
+• @MoSamir27 tester
+• @DinamoJeSvetinja banner maker😍
+
+By @OrdinaryEnder
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+261,2024-12-08T18:59:20,2024-12-08T18:59:56,DerpFest,,13,"GApps, Unofficial, Official",https://sourceforge.net/projects/ordinaryendersstuff/files/Derpfest%20Tango%20(Ordinary%20Build)/,photos/photo_181@08-12-2024_18-59-20.jpg,,,,@OrdinaryEnder,"#DerpFest#UNOFFICIAL#ROM#T#Camellia#Camellian
+
+DerpFest - UNOFFICIAL | Android 13.0
+Released: 08/12/24
+▪️Download
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• December security patch
+• Latest synced source
+
+Notes:
+• Flash with DerpFest recovery
+• Gapps Build 
+• uses libperfmgr, Battery and Performance Might be Impacted (prob 
+increasing performance in cost of Battery Life)
+• DO NOT use blur on 4/64
+
+Bugs:
+• Dirty Flash probably causes Instagram, YT, or other video playback 
+doesn't play, Clean Flash is mandatory, prob still ooccurs after that, in case, send logcat to here (related only), still finding solution
+
+
+Special thanks to:
+• @rio113 For device tree
+• @probablyanidiot for server
+• @fnayush vendor commits
+• @naokoshoto banner
+
+By @OrdinaryEnder
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+262,2024-12-08T23:55:23,2024-12-08T23:55:41,crDroid,,13,"Vanilla, Unofficial, Official",https://sourceforge.net/projects/ordinaryendersstuff/files/crDroid%209.20/,photos/photo_182@08-12-2024_23-55-23.jpg,,,,@OrdinaryEnder,"#crDroid#Unofficial#ROM#T#Camellia#Camellian
+crDroid 9.20 - UNOFFICIAL | Android 13.
+Released:09/12/2024
+
+• Download
+• Support
+• Flashing steps
+
+Changelog:
+• Updated to latest A13 source (9.20)
+• Added ViperFX
+• Added Dolby 
+• Improved performance (probably, not guaranteed on every devices)
+
+Bugs:
+• Ordy doesn't found bug while testing, if you do have it please tell me
+
+Notes:
+• Vanilla Build
+• September 2024 Security Patch
+• Fingerprint and Face Unlock are working
+• Clean flash mandatory
+
+Thanks to:
+• @rio113 : For trees
+• @vistrd : for quick server
+• @fnayush : vendor commit
+• @naokoshoto : for a cute banner
+•  The community : to keep this community alive until today
+
+By @OrdinaryEnder
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+263,2024-12-13T12:32:40,2024-12-13T12:32:55,ProtonAOS,,13,"GApps, Unofficial, Official",https://sourceforge.net/projects/ordinaryendersstuff/files/ProtonAOSP-Plus/,photos/photo_183@13-12-2024_12-32-40.jpg,,,,@OrdinaryEnder,"#ProtonAOSP #Minimalist #Unofficial #ROM #T #Camellia #Camellian
+ProtonAOSP Plus - UNOFFICIAL | Android 13 - EOL
+
+A minimal custom Android ROM focused on UI/UX and performance, with a touch of privacy.
+
+Released: 13/12/24
+
+▪️Download
+▪️Flashing Guide 
+▪️Screenshots
+▪️Support
+
+Bugs: 
+• Not Yet Found, If you have this ROM installed, and you did found one, report
+
+Changelog:
+• Initial A13 Build (And the last one too)
+
+Notes:
+• SELinux is Permissive (ROM is too old)
+• ROM includes libperfmgr, Performance Impacted.
+• No Gapps, Flash Either GApps or MicroG, your choice 
+
+Special thanks:
+• @rio113 For DT
+• @probablyanidiot for Server
+• @ChrisDEOB For test
+
+
+By @OrdinaryEnder
+Follow @PocoM3ProUpdates
+Join @PocoM3Official"
+264,2024-12-13T13:25:56,2024-12-13T18:51:48,Android,13.,13,"GApps, Vanilla, Official",https://drive.google.com/drive/folders/1SiFqgjtxPCalBcQRceO8ukQdHX9Hjam4,photos/photo_184@13-12-2024_13-25-56.jpg,,,,@winclippy,"#PaperClipUI #Official #ROM #T #Camellia #Camellian 
+PaperClipUI - Exiel - OFFICIAL | Android 13.
+Released:08/12/24
+
+▪️Download
+▪️Screenshots
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• Initial build
+
+Bugs:
+• NFC on camellian (MIUI CN)
+
+Notes:
+• Blur on 4/64
+• Only vanilla build (use magisk module for Gapps)
+• Bootable on camellian
+• Global languages included
+• Based on camellia V14.0.2.0.TKSCNXM
+• Debloated
+• February 2023 Security Patch
+• Archive is divided to parts. You need to download them all, then unpack ""PaperClipUI-EXIEL-camellia.part1.rar"". After that, you will have normal archive, just unpack it
+
+Thanks to:
+@gartriss for miui cn base, banner and a lot of help
+@nisel11 for testing bootanimation
+@kashis_cringey_stuffs, @zGonzah and @miuimodcollection for some mods
+
+By @winclippy
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+265,2024-12-15T02:27:43,2024-12-15T02:28:01,eOS,,13,"GApps, Unofficial, Official",https://sourceforge.net/projects/ordinaryendersstuff/files/e%20OS%202.6/,photos/photo_185@15-12-2024_02-27-43.jpg,,,,included,"#eOS #Unofficial #ROM #T #Camellia #Camellian 
+/e/OS 2.6 - UNOFFICIAL | Android 13.
+Released:15/12/24
+
+/e/OS is a “deGoogled” version of Android OS. It has an open-source Android OS core, with no Google apps or Google services accessing your personal data.
+
+▪️Download
+▪️Screenshots
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• Updated to v.2.6 (November 2024 Security Patch)
+• (probably) some performance Improvisation
+
+Bugs:
+• Hmmmm, strange, we didn't found any, would you mind to report one if you do?
+
+Notes:
+• MicroG, ViperFX, Dolby included
+• Rom have alternatives to Google Play and another Google apps (Aurora Store fork for example)
+• Do not try to flash GApps, it'll probably not work anyway
+
+Thanks to:
+• @rio113 For trees
+• @probablyanidiot for server
+• @ChrisDEOB For test and banner
+
+By @OrdinaryEnder
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+267,2024-12-22T04:27:50,2025-01-08T09:54:47,LineageOS,,13,"GApps, Vanilla, Unofficial, Official",,photos/photo_186@22-12-2024_04-27-50.jpg,,,,@OrdinaryEnder,"#LineageOS #Unofficial #ROM #T #Camellia #Camellian 
+LineageOS 20 - UNOFFICIAL | Android 13
+Released: 22/12/24
+
+▪️Download: here
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• Update to December Patch 
+• some performance props added
+
+Bugs:
+• Night Light flickering, I'll see this on the tree and see if I can fix it, other than this, none (probably)
+
+Notes:
+• Vanilla only build, use LiteGapps/NikGapps for google goodies
+• Unsigned ROM (using test-keys, may broke some apps, spoof device if you need the app to be working)
+• Dirty Flash is fine from Lineage prev builds
+
+
+Thanks to:
+• @rio113 For trees
+• @fnayush for some commits
+• @ChrisDEOB testment
+• @probablyanidiot server
+• @DinamoJeSvetinja banner
+
+By @OrdinaryEnder
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+268,2024-12-23T03:11:25,2025-01-08T09:53:30,ArrowOS,,13,"Vanilla, Unofficial, Official",https://vibi.ordinaryender.my.eu.org/camellia/ArrowOS%20Extended/,photos/photo_187@23-12-2024_03-11-25.jpg,,,,@OrdinaryEnder,"#Arrow #UNOFFICIAL #ROM #T #Camellia #Camellian
+ArrowOS Extended Edition UNOFFICIAL | Android 13.0
+Released: 23/12/24
+
+▪️Download
+▪️Support
+▪️Flashing steps
+▪️Screenshots
+
+Changelog:
+• December Security Patch
+• use mali instead of MEOW (as Hardware EGL)
+
+Notes:
+• Flash with Arrow recovery 
+• Vanilla Build
+
+Bugs:
+•  Night Light flickering, Fix still unknown
+• Other than this, still not found (if you do you can get in touch)
+
+Special thanks to:
+• @rio113 For device tree
+• @ChrisDEOB for test
+• @fnayush for tree and vendor commits
+• @probablyanidiot server
+
+By @OrdinaryEnder
+Follow @PocoM3ProUpdates
+Join @PocoM3ProOfficial"
+274,2025-01-11T16:01:14,2025-01-22T19:22:12,DerpFest,,13,"GApps, Unofficial, Official",http://camellia.vistrd.su/,photos/photo_188@11-01-2025_16-01-14.jpg,,,,vendor,"#DerpFest#UNOFFICIAL#ROM#T#Camellia#Camellian
+
+DerpFest - UNOFFICIAL | Android 13.0
+Released: 11/01/25
+▪️Download
+▪️Support
+▪️Flashing steps
+
+Changelog:
+• January 2025 Security Patch
+• Latest synced source
+• Initial new tree
+
+Notes:
+• Flash with DerpFest recovery
+• Gapps Build 
+• DO NOT use blur on 4/64 or you'll experience lag sometimes while pulling quick settings
+
+Bugs:
+• We need you to find the bugs since I didn't get the bug
+
+Special thanks to:
+• @rio113 For device tree
+• @vistrd for server
+• @fnayush dolby vendor
+• @OrdinaryEnder banner and testing
+
+By @OrdinaryEnder
+Follow @pecamelliaupdates
+Join @pecamellia"
+280,2025-02-15T02:56:19,2025-02-15T03:11:59,pos,,,,,,,,,,"Will be posting new ROMs again from others in the noon, for now let's pray for the best for Ordi 🙏🕊️"
+281,2025-02-15T06:04:26,2025-02-15T12:53:54,Android,13,13,,https://sourceforge.net/projects/camelliaport/files/tn/,photos/photo_192@15-02-2025_06-04-26.jpg,,,,@fnayush,"#MIUI #MIUITN #T #Camellia #Camellian
+MIUITN 2.65 | Android 13
+Released: 03/02/25
+
+▪️Download 
+▪️Support
+
+Changelog:
+•Included APatch
+•Added some tweaks
+•Fixed some apps
+•Fixed MiMacro
+•Fixed not booting on camellian
+•Fixed launcher for poco
+
+Bugs:
+• Tell to me :D!
+
+Notes:
+•Apatch password= ayush321
+
+Thanks:
+•@gartriss for everything he did
+•@nvthang2303 for project 
+
+By @fnayush
+Follow @pecamelliaupdates
+Join @pecamellia"
+282,2025-02-15T06:06:48,2025-02-18T12:11:32,HyperOS,,13,,https://sourceforge.net/projects/gartriss-archive/files/camellia/HyperOS_Port_OS1.0.8.0.TGLEUVF_camellia_A13/,photos/photo_193@15-02-2025_06-06-48.jpg,,,,@gartriss,"#HyperOS #Android13 #T #Camellia #Camellian #Port
+HyperOS Port - Android 13
+Released: 12/02/25
+
+▪️Download
+▪️Screenshots 
+▪️Support
+▪️README
+
+Changelog
+• Initial Build
+• Based on opal OS1.0.8.0.TGLEUVF
+
+Bugs
+• Broken ""Updating system..."" notification
+• Tell me
+
+Notes
+• All partitions are Read-Write
+• Fingerprint acting like a button fixed
+• Core Patch included
+• NO AOD!! (buy device with amoled for this)
+• December 2024 Security Patch
+• Debloated
+• Bootloader lock spoof
+• If you can't enable ""Allow install APKs from unknown sources"", reboot device and try again
+• First boot can take long time
+
+Special Thanks
+• @kashis_cringey_stuffs for launcher mod
+• @zGonzah, @fnayush for all help
+• @ChrisDEOB for testing
+• @rexix01 for install script base
+
+By @gartriss
+Follow @pecamelliaupdates
+Join @pecamellia"
+283,2025-02-15T14:07:33,2025-02-15T14:08:07,Android,13,13,,https://sourceforge.net/projects/camelliaport/files/tn/,photos/photo_194@15-02-2025_14-07-33.jpg,,,,@fnayush,"#MIUI #MIUITN #T #Camellia #Camellian
+MIUITN 2.65 | Android 13
+Released:03/02/25
+
+▪️Download 
+▪️Support
+
+Changelog:
+•Now APatch work for camellian too
+•Added some tweaks
+•Fixed some apps
+•Added some new features 
+•Fixed launcher for poco
+•Fixed nfc
+
+Bugs:
+• none
+
+Notes:
+•Apatch password= ayush321
+•You can do dirty flash
+• for pif : click 
+
+Thanks:
+•@gartriss for everything he did
+•@nvthang2303 for project 
+•@GlitchElite for testing 
+
+By @fnayush
+Follow @pecamelliaupdates
+Join @pecamellia"
+284,2025-02-27T18:46:14,2025-02-27T18:55:54,HyperOS,,13,,https://www.mediafire.com/file/vrvx6kot2dbafen/hyperos1.0.4.0a13.rar/file,photos/photo_195@27-02-2025_18-46-14.jpg,,,,@ekaitzpro,"#HyperOS #Android13 #T #Camellia #Camellian #Port
+HyperOS Port - Android 13
+Released:27/02/25
+
+▪️ Download
+▪️ Screenshot 
+▪️Support
+
+Bugs:
+• none
+
+Changelog
+• Initial Build
+• Based on opal's hyperos 1.0.4.0
+
+Thanks:
+• @gartriss and @itzspelly for all the help 
+•@ChrisDEOB for testing 
+
+By @ekaitzpro
+Follow @pecamelliaupdates
+Join @pecamellia"
+285,2025-03-02T18:31:22,2025-03-02T18:32:54,HyperOS,,14,,https://gofile.io/d/e1386c86-f5e9-403c-86b2-99d18b2896f4,photos/photo_196@02-03-2025_18-31-22.jpg,,,,@ekaitzpro,"#HyperOS #Android14 #U #Camellia #Camellian #Port
+HyperOS Port - Android 14
+Released:27/02/25
+
+▪️Download
+▪️Screenshot 
+▪️Support
+
+Changelog
+• Initial Build
+• Based on gold 1.0.18.0
+• NFC works
+
+Bugs:
+• The MiSans font is bugged
+
+Thanks:
+• Thanks  to @ITSMESUKUNA for the banner 
+
+By @ekaitzpro
+Follow @pecamelliaupdates
+Join @pecamellia"
+287,2025-03-09T05:48:25,2025-03-09T06:31:22,HyperOS,,15,Community,https://www.mediafire.com/file/7tx6nfwf87y0len/camellia_OS2.0.119.VKSCNXM_A15_Repacked.zip,photos/photo_197@09-03-2025_05-48-25.jpg,,,,,"#HyperOS #Android15 #V #Camellia #Camellian #Port #Beta
+HyperOS 2.0 Port - Android 15 Beta
+Released:27/02/25
+Versión: 2.0.119.0CN
+
+▪️ Download
+▪️ Screenshot 
+
+
+Reminder:
+• It is a beta release, being the first beta build of Android 15 for Camellia it may have bugs, we appreciate you commenting on your experience.
+
+Bugs:
+• NFC does not work.
+• Application launch animation is a bit buggy
+
+Thanks:
+• Chinese community
+
+By @ Unknown Author (From chinese community)
+Follow @pecamelliaupdates
+Join @pecamellia"
+290,2025-03-26T14:10:18,2025-05-12T13:23:14,HyperOS,,14,,https://gofile.io/d/otGasA,photos/photo_198@26-03-2025_14-10-18.jpg,,,,@ekaitzpro,"#HyperOS #Android14 #U #Camellia #Camellian #Port
+HyperOS 2.0 Port  - Android 14
+Released:26/03/25
+
+▪️ Download | Mirror 
+▪️ Screenshot 
+▪️Support
+
+Bugs:
+• None
+
+Changelog
+• Initial Build
+• Ported from Ruby
+• Version : 2.0.1.0UMOCNXM
+• NFC works
+• CN version 
+
+Thanks:
+• thanks  to @ITSMESUKUNA for the banner 
+
+By @ekaitzpro
+Follow @pecamelliaupdates
+Join @pecamellia"
+294,2025-03-30T18:06:53,2025-03-30T18:06:57,HyperOS,,15,,https://sourceforge.net/projects/camellia-ports/files/A15/camellia_OS2.0.103.0.VOJCNXM.rar/download,photos/photo_199@30-03-2025_18-06-53.jpg,,,,@ekaitzpro,"#HyperOS #Android15 #V #Camellia #Camellian #Port
+HyperOS 2.0 Port  - Android 15
+Released:30/03/25
+
+▪️ Download
+▪️ Screenshot 
+▪️Support
+
+Bugs:
+• NFC not turning off (it works)
+
+Changelog
+• Initial Build
+• Ported from Redmi Turbo 4
+• Version : OS2.0.103.0.VOJCNXM
+• NFC works
+• CN version 
+
+Thanks:
+• thanks  to @DinamoJeSvetinja for the banner 
+
+By @ekaitzpro
+Follow @pecamelliaupdates
+Join @pecamellia"
+295,2025-04-01T03:31:14,2025-04-01T03:31:41,iOS,,,,https://youtu.be/dQw4w9WgXcQ?si=GTQwo134DBjKFtsG,photos/photo_200@01-04-2025_03-31-14.jpg,,,,@DinamoJeSvetinja,"#iOS #Port #Camellia #Camellian #U
+
+iOS 18 - Port for Camellia/n
+Released: 01/04/'25
+
+⬛️ Screenshots 
+⬛️ Support
+⬛️ Download
+
+Bugs:
+None :D
+
+Changelog:
+• Inital port release 
+• Boosted performance
+
+Special thanks to:
+• @noah_allen for help 
+• @ITSMESUKUNA for testing
+
+ 
+By @DinamoJeSvetinja
+Follow @pecamelliaupdates
+Join @pecamellia"
+296,2025-04-05T13:29:06,2025-04-05T13:29:43,HyperOS,,15,,https://sourceforge.net/projects/camellia-ports/files/A15/OS2.0.5.0.VNOCNXM-for-camelliacamellian.rar/download,photos/photo_201@05-04-2025_13-29-06.jpg,,,,@ekaitzpro,"#HyperOS #Android15 #Camellia #Camellian 
+HyperOS 2  - Android 15
+Released: 01/04/25
+
+▪️Download
+▪️Screenshots
+▪️Support
+
+Changelog:
+• Based on 2.0.5.0 CN 
+
+Bugs:
+• Lockscreen setup works only in system
+
+Notes:
+• NFC working
+• Smooth for 6/8 gb ram
+
+By @ekaitzpro 
+Follow @pecamelliaupdates
+Join @pecamellia"

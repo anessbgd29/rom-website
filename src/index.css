@@ -1,0 +1,74 @@
+/* Global styles */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+:root {
+  --primary-color: #006495;
+  --secondary-color: #9c27b0;
+  --background-color: #f5f5f5;
+  --paper-color: #ffffff;
+  --text-primary: #212121;
+  --text-secondary: #757575;
+}
+
+[data-theme='dark'] {
+  --primary-color: #90caf9;
+  --secondary-color: #ce93d8;
+  --background-color: #121212;
+  --paper-color: #1e1e1e;
+  --text-primary: #ffffff;
+  --text-secondary: #b0b0b0;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Arial', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--background-color);
+  color: var(--text-primary);
+  transition: background-color 0.3s ease;
+}
+
+/* RTL Support */
+body[dir='rtl'] .MuiInputBase-root {
+  text-align: right;
+}
+
+/* Material You inspired styles */
+.mui-card {
+  border-radius: 16px;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.mui-card:hover {
+  transform: translateY(-4px);
+}
+
+.mui-button {
+  border-radius: 100px;
+  text-transform: none;
+}
+
+/* Smooth transitions */
+.fade-enter {
+  opacity: 0;
+}
+.fade-enter-active {
+  opacity: 1;
+  transition: opacity 300ms;
+}
+.fade-exit {
+  opacity: 1;
+}
+.fade-exit-active {
+  opacity: 0;
+  transition: opacity 300ms;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .mui-card {
+    margin-bottom: 16px;
+  }
+}
